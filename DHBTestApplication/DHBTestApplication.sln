@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DHBTestApplication.Web", "DHBTestApplication\DHBTestApplication.Web.csproj", "{2BA98971-040E-4125-8A28-38A59FC75A0F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{592E2AA8-CD51-4D1D-AFC7-4DF266798C0D} = {592E2AA8-CD51-4D1D-AFC7-4DF266798C0D}
+		{78001F35-68A8-4139-A421-516333D273E5} = {78001F35-68A8-4139-A421-516333D273E5}
+		{81A6B2BB-4EAB-436A-BEDC-70DD40CC842C} = {81A6B2BB-4EAB-436A-BEDC-70DD40CC842C}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DHBTestApplication.Infrastructure", "DHBTestApplication.Infrastructure\DHBTestApplication.Infrastructure.csproj", "{81A6B2BB-4EAB-436A-BEDC-70DD40CC842C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{78001F35-68A8-4139-A421-516333D273E5} = {78001F35-68A8-4139-A421-516333D273E5}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DHBTestApplication.Domain", "DHBTestApplication.Domain\DHBTestApplication.Domain.csproj", "{78001F35-68A8-4139-A421-516333D273E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DHBTestApplication.Application", "DHBTestApplication.Application\DHBTestApplication.Application.csproj", "{592E2AA8-CD51-4D1D-AFC7-4DF266798C0D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{78001F35-68A8-4139-A421-516333D273E5} = {78001F35-68A8-4139-A421-516333D273E5}
+		{81A6B2BB-4EAB-436A-BEDC-70DD40CC842C} = {81A6B2BB-4EAB-436A-BEDC-70DD40CC842C}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHBTestApplication.API", "DHBTestApplication.API\DHBTestApplication.API.csproj", "{A6377883-1C39-4CDA-8B16-5304F257D83D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BA98971-040E-4125-8A28-38A59FC75A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA98971-040E-4125-8A28-38A59FC75A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BA98971-040E-4125-8A28-38A59FC75A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA98971-040E-4125-8A28-38A59FC75A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A6B2BB-4EAB-436A-BEDC-70DD40CC842C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A6B2BB-4EAB-436A-BEDC-70DD40CC842C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A6B2BB-4EAB-436A-BEDC-70DD40CC842C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A6B2BB-4EAB-436A-BEDC-70DD40CC842C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78001F35-68A8-4139-A421-516333D273E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78001F35-68A8-4139-A421-516333D273E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78001F35-68A8-4139-A421-516333D273E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78001F35-68A8-4139-A421-516333D273E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{592E2AA8-CD51-4D1D-AFC7-4DF266798C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592E2AA8-CD51-4D1D-AFC7-4DF266798C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592E2AA8-CD51-4D1D-AFC7-4DF266798C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592E2AA8-CD51-4D1D-AFC7-4DF266798C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6377883-1C39-4CDA-8B16-5304F257D83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6377883-1C39-4CDA-8B16-5304F257D83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6377883-1C39-4CDA-8B16-5304F257D83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6377883-1C39-4CDA-8B16-5304F257D83D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7CAE21B-4019-4824-97CD-5C1D8D7FE3DF}
+	EndGlobalSection
+EndGlobal

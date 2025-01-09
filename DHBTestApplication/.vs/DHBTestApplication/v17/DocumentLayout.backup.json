@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA98971-040E-4125-8A28-38A59FC75A0F}|DHBTestApplication\\DHBTestApplication.Web.csproj|c:\\users\\elliot lake\\source\\repos\\dhbtestapplication\\dhbtestapplication\\components\\pages\\rankbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA98971-040E-4125-8A28-38A59FC75A0F}|DHBTestApplication\\DHBTestApplication.Web.csproj|solutionrelative:dhbtestapplication\\components\\pages\\rankbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA98971-040E-4125-8A28-38A59FC75A0F}|DHBTestApplication\\DHBTestApplication.Web.csproj|c:\\users\\elliot lake\\source\\repos\\dhbtestapplication\\dhbtestapplication\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BA98971-040E-4125-8A28-38A59FC75A0F}|DHBTestApplication\\DHBTestApplication.Web.csproj|solutionrelative:dhbtestapplication\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA98971-040E-4125-8A28-38A59FC75A0F}|DHBTestApplication\\DHBTestApplication.Web.csproj|c:\\users\\elliot lake\\source\\repos\\dhbtestapplication\\dhbtestapplication\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BA98971-040E-4125-8A28-38A59FC75A0F}|DHBTestApplication\\DHBTestApplication.Web.csproj|solutionrelative:dhbtestapplication\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A6B2BB-4EAB-436A-BEDC-70DD40CC842C}|DHBTestApplication.Infrastructure\\DHBTestApplication.Infrastructure.csproj|c:\\users\\elliot lake\\source\\repos\\dhbtestapplication\\dhbtestapplication.infrastructure\\countryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A6B2BB-4EAB-436A-BEDC-70DD40CC842C}|DHBTestApplication.Infrastructure\\DHBTestApplication.Infrastructure.csproj|solutionrelative:dhbtestapplication.infrastructure\\countryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A6B2BB-4EAB-436A-BEDC-70DD40CC842C}|DHBTestApplication.Infrastructure\\DHBTestApplication.Infrastructure.csproj|c:\\users\\elliot lake\\source\\repos\\dhbtestapplication\\dhbtestapplication.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A6B2BB-4EAB-436A-BEDC-70DD40CC842C}|DHBTestApplication.Infrastructure\\DHBTestApplication.Infrastructure.csproj|solutionrelative:dhbtestapplication.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78001F35-68A8-4139-A421-516333D273E5}|DHBTestApplication.Domain\\DHBTestApplication.Domain.csproj|c:\\users\\elliot lake\\source\\repos\\dhbtestapplication\\dhbtestapplication.domain\\icountryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78001F35-68A8-4139-A421-516333D273E5}|DHBTestApplication.Domain\\DHBTestApplication.Domain.csproj|solutionrelative:dhbtestapplication.domain\\icountryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78001F35-68A8-4139-A421-516333D273E5}|DHBTestApplication.Domain\\DHBTestApplication.Domain.csproj|c:\\users\\elliot lake\\source\\repos\\dhbtestapplication\\dhbtestapplication.domain\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78001F35-68A8-4139-A421-516333D273E5}|DHBTestApplication.Domain\\DHBTestApplication.Domain.csproj|solutionrelative:dhbtestapplication.domain\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78001F35-68A8-4139-A421-516333D273E5}|DHBTestApplication.Domain\\DHBTestApplication.Domain.csproj|c:\\users\\elliot lake\\source\\repos\\dhbtestapplication\\dhbtestapplication.domain\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78001F35-68A8-4139-A421-516333D273E5}|DHBTestApplication.Domain\\DHBTestApplication.Domain.csproj|solutionrelative:dhbtestapplication.domain\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592E2AA8-CD51-4D1D-AFC7-4DF266798C0D}|DHBTestApplication.Application\\DHBTestApplication.Application.csproj|c:\\users\\elliot lake\\source\\repos\\dhbtestapplication\\dhbtestapplication.application\\getcountrylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592E2AA8-CD51-4D1D-AFC7-4DF266798C0D}|DHBTestApplication.Application\\DHBTestApplication.Application.csproj|solutionrelative:dhbtestapplication.application\\getcountrylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592E2AA8-CD51-4D1D-AFC7-4DF266798C0D}|DHBTestApplication.Application\\DHBTestApplication.Application.csproj|c:\\users\\elliot lake\\source\\repos\\dhbtestapplication\\dhbtestapplication.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592E2AA8-CD51-4D1D-AFC7-4DF266798C0D}|DHBTestApplication.Application\\DHBTestApplication.Application.csproj|solutionrelative:dhbtestapplication.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6377883-1C39-4CDA-8B16-5304F257D83D}|DHBTestApplication.API\\DHBTestApplication.API.csproj|c:\\users\\elliot lake\\source\\repos\\dhbtestapplication\\dhbtestapplication.api\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6377883-1C39-4CDA-8B16-5304F257D83D}|DHBTestApplication.API\\DHBTestApplication.API.csproj|solutionrelative:dhbtestapplication.api\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA98971-040E-4125-8A28-38A59FC75A0F}|DHBTestApplication\\DHBTestApplication.Web.csproj|c:\\users\\elliot lake\\source\\repos\\dhbtestapplication\\dhbtestapplication\\components\\pages\\rank.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BA98971-040E-4125-8A28-38A59FC75A0F}|DHBTestApplication\\DHBTestApplication.Web.csproj|solutionrelative:dhbtestapplication\\components\\pages\\rank.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6377883-1C39-4CDA-8B16-5304F257D83D}|DHBTestApplication.API\\DHBTestApplication.API.csproj|c:\\users\\elliot lake\\source\\repos\\dhbtestapplication\\dhbtestapplication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6377883-1C39-4CDA-8B16-5304F257D83D}|DHBTestApplication.API\\DHBTestApplication.API.csproj|solutionrelative:dhbtestapplication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA98971-040E-4125-8A28-38A59FC75A0F}|DHBTestApplication\\DHBTestApplication.Web.csproj|c:\\users\\elliot lake\\source\\repos\\dhbtestapplication\\dhbtestapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA98971-040E-4125-8A28-38A59FC75A0F}|DHBTestApplication\\DHBTestApplication.Web.csproj|solutionrelative:dhbtestapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA98971-040E-4125-8A28-38A59FC75A0F}|DHBTestApplication\\DHBTestApplication.Web.csproj|c:\\users\\elliot lake\\source\\repos\\dhbtestapplication\\dhbtestapplication\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BA98971-040E-4125-8A28-38A59FC75A0F}|DHBTestApplication\\DHBTestApplication.Web.csproj|solutionrelative:dhbtestapplication\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA98971-040E-4125-8A28-38A59FC75A0F}|DHBTestApplication\\DHBTestApplication.Web.csproj|c:\\users\\elliot lake\\source\\repos\\dhbtestapplication\\dhbtestapplication\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BA98971-040E-4125-8A28-38A59FC75A0F}|DHBTestApplication\\DHBTestApplication.Web.csproj|solutionrelative:dhbtestapplication\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA98971-040E-4125-8A28-38A59FC75A0F}|DHBTestApplication\\DHBTestApplication.Web.csproj|c:\\users\\elliot lake\\source\\repos\\dhbtestapplication\\dhbtestapplication\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BA98971-040E-4125-8A28-38A59FC75A0F}|DHBTestApplication\\DHBTestApplication.Web.csproj|solutionrelative:dhbtestapplication\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A6B2BB-4EAB-436A-BEDC-70DD40CC842C}|DHBTestApplication.Infrastructure\\DHBTestApplication.Infrastructure.csproj|c:\\users\\elliot lake\\source\\repos\\dhbtestapplication\\dhbtestapplication.infrastructure\\dhbtestapplication.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81A6B2BB-4EAB-436A-BEDC-70DD40CC842C}|DHBTestApplication.Infrastructure\\DHBTestApplication.Infrastructure.csproj|solutionrelative:dhbtestapplication.infrastructure\\dhbtestapplication.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA98971-040E-4125-8A28-38A59FC75A0F}|DHBTestApplication\\DHBTestApplication.Web.csproj|c:\\users\\elliot lake\\source\\repos\\dhbtestapplication\\dhbtestapplication\\dhbtestapplication.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2BA98971-040E-4125-8A28-38A59FC75A0F}|DHBTestApplication\\DHBTestApplication.Web.csproj|solutionrelative:dhbtestapplication\\dhbtestapplication.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Domain\\CountryDto.cs",
+              "RelativeDocumentMoniker": "DHBTestApplication.Domain\\CountryDto.cs",
+              "ToolTip": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Domain\\CountryDto.cs",
+              "RelativeToolTip": "DHBTestApplication.Domain\\CountryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:56:39.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICountryProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Domain\\ICountryProvider.cs",
+              "RelativeDocumentMoniker": "DHBTestApplication.Domain\\ICountryProvider.cs",
+              "ToolTip": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Domain\\ICountryProvider.cs",
+              "RelativeToolTip": "DHBTestApplication.Domain\\ICountryProvider.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:47:39.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "DHBTestApplication.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "DHBTestApplication.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:40:41.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountryProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Infrastructure\\CountryProvider.cs",
+              "RelativeDocumentMoniker": "DHBTestApplication.Infrastructure\\CountryProvider.cs",
+              "ToolTip": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Infrastructure\\CountryProvider.cs",
+              "RelativeToolTip": "DHBTestApplication.Infrastructure\\CountryProvider.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:56:16.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "DHBTestApplication\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "DHBTestApplication\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T14:51:03.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "DHBTestApplication\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "DHBTestApplication\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T14:50:59.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RankBase.cs",
+              "DocumentMoniker": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\Components\\Pages\\RankBase.cs",
+              "RelativeDocumentMoniker": "DHBTestApplication\\Components\\Pages\\RankBase.cs",
+              "ToolTip": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\Components\\Pages\\RankBase.cs",
+              "RelativeToolTip": "DHBTestApplication\\Components\\Pages\\RankBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:58:32.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Domain\\Country.cs",
+              "RelativeDocumentMoniker": "DHBTestApplication.Domain\\Country.cs",
+              "ToolTip": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Domain\\Country.cs",
+              "RelativeToolTip": "DHBTestApplication.Domain\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:48:26.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetCountryList.cs",
+              "DocumentMoniker": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Application\\GetCountryList.cs",
+              "RelativeDocumentMoniker": "DHBTestApplication.Application\\GetCountryList.cs",
+              "ToolTip": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Application\\GetCountryList.cs",
+              "RelativeToolTip": "DHBTestApplication.Application\\GetCountryList.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:57:09.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "DHBTestApplication.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "DHBTestApplication.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:15:11.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.API\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "DHBTestApplication.API\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.API\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "DHBTestApplication.API\\Controllers\\CountriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:21:33.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\Components\\App.razor",
+              "RelativeDocumentMoniker": "DHBTestApplication\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\Components\\App.razor",
+              "RelativeToolTip": "DHBTestApplication\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T14:50:38.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "DHBTestApplication\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\Components\\_Imports.razor",
+              "RelativeToolTip": "DHBTestApplication\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T14:48:52.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rank.razor",
+              "DocumentMoniker": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\Components\\Pages\\Rank.razor",
+              "RelativeDocumentMoniker": "DHBTestApplication\\Components\\Pages\\Rank.razor",
+              "ToolTip": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\Components\\Pages\\Rank.razor",
+              "RelativeToolTip": "DHBTestApplication\\Components\\Pages\\Rank.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T14:52:12.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.API\\Program.cs",
+              "RelativeDocumentMoniker": "DHBTestApplication.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.API\\Program.cs",
+              "RelativeToolTip": "DHBTestApplication.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:26:40.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\Program.cs",
+              "RelativeDocumentMoniker": "DHBTestApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\Program.cs",
+              "RelativeToolTip": "DHBTestApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:28:04.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "DHBTestApplication\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "DHBTestApplication\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T14:53:04.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DHBTestApplication.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Infrastructure\\DHBTestApplication.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "DHBTestApplication.Infrastructure\\DHBTestApplication.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Infrastructure\\DHBTestApplication.Infrastructure.csproj",
+              "RelativeToolTip": "DHBTestApplication.Infrastructure\\DHBTestApplication.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-07T13:32:23.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DHBTestApplication.Web",
+              "DocumentMoniker": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\DHBTestApplication.Web.csproj",
+              "RelativeDocumentMoniker": "DHBTestApplication\\DHBTestApplication.Web.csproj",
+              "ToolTip": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\DHBTestApplication.Web.csproj",
+              "RelativeToolTip": "DHBTestApplication\\DHBTestApplication.Web.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-07T13:27:15.28Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

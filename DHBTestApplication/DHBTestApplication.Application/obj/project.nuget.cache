@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "77q5fCPLysI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Application\\DHBTestApplication.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elliot Lake\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Elliot Lake\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Elliot Lake\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Elliot Lake\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
+    "C:\\Users\\Elliot Lake\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
+    "C:\\Users\\Elliot Lake\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

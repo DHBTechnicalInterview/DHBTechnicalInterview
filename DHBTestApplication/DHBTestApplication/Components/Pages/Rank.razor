@@ -1,0 +1,24 @@
+﻿@page "/rank"
+@inherits RankBase
+
+<h3>Rank</h3>
+
+
+<RadzenButton Text="Load Countries" Click="LoadCountriesInOrder" IsBusy="!IsLoaded"></RadzenButton>
+
+@if (!IsLoaded)
+{
+    <div class="loader">
+    </div>
+}
+
+@if (IsLoaded)
+{
+    <RadzenDataGrid Data="@CountryList">
+        <Columns>
+            <RadzenDataGridColumn Property="Name" Title="Name"></RadzenDataGridColumn>
+            <RadzenDataGridColumn Property="Population" Title="Population"></RadzenDataGridColumn>
+            <RadzenDataGridColumn Property="Area" Title="Area"></RadzenDataGridColumn>
+        </Columns>
+    </RadzenDataGrid>
+}
