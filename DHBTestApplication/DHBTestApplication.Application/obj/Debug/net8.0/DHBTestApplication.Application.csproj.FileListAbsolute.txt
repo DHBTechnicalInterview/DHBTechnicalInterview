@@ -1,0 +1,35 @@
+C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/DHBTestApplication.Application.csproj.AssemblyReference.cache
+C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/DHBTestApplication.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/DHBTestApplication.Application.AssemblyInfoInputs.cache
+C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/DHBTestApplication.Application.AssemblyInfo.cs
+C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/DHBTestApplication.Application.csproj.CoreCompileInputs.cache
+C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.Application/bin/Debug/net8.0/DHBTestApplication.Application.deps.json
+C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.Application/bin/Debug/net8.0/DHBTestApplication.Application.dll
+C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.Application/bin/Debug/net8.0/DHBTestApplication.Application.pdb
+C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.Application/bin/Debug/net8.0/DHBTestApplication.Domain.dll
+C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.Application/bin/Debug/net8.0/DHBTestApplication.Infrastructure.dll
+C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.Application/bin/Debug/net8.0/DHBTestApplication.Domain.pdb
+C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.Application/bin/Debug/net8.0/DHBTestApplication.Infrastructure.pdb
+C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/DHBTestA.34AE7F0B.Up2Date
+C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/DHBTestApplication.Application.dll
+C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/refint/DHBTestApplication.Application.dll
+C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/DHBTestApplication.Application.pdb
+C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/ref/DHBTestApplication.Application.dll
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/bin/Debug/net8.0/DHBTestApplication.Application.deps.json
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/bin/Debug/net8.0/DHBTestApplication.Application.dll
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/bin/Debug/net8.0/DHBTestApplication.Application.pdb
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/bin/Debug/net8.0/DHBTestApplication.Domain.dll
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/bin/Debug/net8.0/DHBTestApplication.Infrastructure.dll
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/bin/Debug/net8.0/DHBTestApplication.Domain.pdb
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/bin/Debug/net8.0/DHBTestApplication.Infrastructure.pdb
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/DHBTestApplication.Application.csproj.AssemblyReference.cache
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/DHBTestApplication.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/DHBTestApplication.Application.AssemblyInfoInputs.cache
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/DHBTestApplication.Application.AssemblyInfo.cs
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/DHBTestApplication.Application.csproj.CoreCompileInputs.cache
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/DHBTestApplication.Application.sourcelink.json
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/DHBTestApplication.Application.dll
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/refint/DHBTestApplication.Application.dll
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/DHBTestApplication.Application.pdb
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/ref/DHBTestApplication.Application.dll
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/DHBTestApplication.Application.csproj.CopyComplete

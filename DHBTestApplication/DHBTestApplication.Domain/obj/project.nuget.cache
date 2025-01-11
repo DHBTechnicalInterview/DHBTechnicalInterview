@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+KuZPQ9LlPQ=",
+  "success": true,
+  "projectFilePath": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Domain/DHBTestApplication.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/oww/.nuget/packages/system.io.pipelines/9.0.0/system.io.pipelines.9.0.0.nupkg.sha512",
+    "/Users/oww/.nuget/packages/system.text.encodings.web/9.0.0/system.text.encodings.web.9.0.0.nupkg.sha512",
+    "/Users/oww/.nuget/packages/system.text.json/9.0.0/system.text.json.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

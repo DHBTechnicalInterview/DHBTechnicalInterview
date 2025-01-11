@@ -1,0 +1,6 @@
+@DHBTestApplication.API_HostAddress = http://localhost:5052
+
+GET https://localhost:7140/countries/
+Accept: application/json
+
+###

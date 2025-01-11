@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vrbOFstwyV0j6BhT+vFp/aINnrmah5Czl5z/xBJ1lp0=",
+  "Source": "DHBTestApplication.API",
+  "BasePath": "_content/DHBTestApplication.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

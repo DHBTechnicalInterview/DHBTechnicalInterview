@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="Radzen.Blazor" Version="5.7.4" />
+	</ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\DHBTestApplication.Application\DHBTestApplication.Application.csproj" />
+		<ProjectReference Include="..\DHBTestApplication.Domain\DHBTestApplication.Domain.csproj" />
+		<ProjectReference Include="..\DHBTestApplication.Infrastructure\DHBTestApplication.Infrastructure.csproj" />
+	</ItemGroup>
+</Project>

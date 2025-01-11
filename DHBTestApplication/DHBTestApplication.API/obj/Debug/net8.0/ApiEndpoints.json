@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "DHBTestApplication.API.Controllers.CountriesController",
+    "Method": "GetCountries",
+    "RelativePath": "countries",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
