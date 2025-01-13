@@ -14,6 +14,9 @@ builder.Services.AddApplicationServices();
 builder.Services.AddInfrastructureServices();
 builder.Services.AddRadzenComponents();
 
+// Fix :Register HttpClient and IConfiguration
+builder.Services.AddHttpClient();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

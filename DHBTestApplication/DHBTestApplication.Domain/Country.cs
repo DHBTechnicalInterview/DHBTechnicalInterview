@@ -14,7 +14,8 @@ namespace DHBTestApplication.Domain
 
         public double CalculateDensity()
         {
-            return Area / Population;
+            //Fix : Changed the formulae to reflect population density
+            return Population / Area;
         }
     }
 }
