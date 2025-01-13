@@ -14,7 +14,7 @@ namespace DHBTestApplication.Web.Components.Pages
 
         protected async override Task OnInitializedAsync()
         {
-            
+            await LoadCountriesInOrder();
         }
         public async Task LoadCountriesInOrder()
         {
