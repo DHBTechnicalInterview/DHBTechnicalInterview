@@ -28,8 +28,8 @@ namespace DHBTestApplication.Infrastructure
                 var countryList = await JsonSerializer.DeserializeAsync<List<CountryDto>>(resultStream);
                 return countryList;
             }catch(Exception ex){
-                _logger.LogError(ex, $"Error fetching countries");
-                throw new ApplicationException("Error Fetching Countries", ex);
+                _logger.LogError($"Error fetching countries : {ex.Message}",ex);
+                throw new ApplicationException($"Error Fetching Countries : {ex.Message}", ex);
             }
         }
     }
