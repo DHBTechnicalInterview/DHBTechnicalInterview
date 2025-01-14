@@ -1,7 +1,9 @@
-﻿using DHBTestApplication.Domain;
+using DHBTestApplication.Domain;
 using MediatR;
+using DHBTestApplication.Web.Clients;
 
-namespace DHBTestApplication.Application
+//move the class from application layer to the services directory of the web side
+namespace DHBTestApplication.Web.Commands
 {
     public class GetCountryListQuery : IRequest<List<Country>>
     {

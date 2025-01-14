@@ -1,7 +1,10 @@
+using MediatR;
 using DHBTestApplication.Application;
 using DHBTestApplication.Web.Components;
 using DHBTestApplication.Infrastructure;
 using DHBTestApplication.Domain;
+using DHBTestApplication.Web;
+using DHBTestApplication.Web.Clients;
 using Radzen;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,11 +12,13 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(Program).Assembly));
 
 builder.Services.AddApplicationServices();
 builder.Services.AddInfrastructureServices();
 builder.Services.AddRadzenComponents();
-
+builder.Services.AddHttpClient();
+builder.Services.AddScoped<ICountryProvider, CountryProvider>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

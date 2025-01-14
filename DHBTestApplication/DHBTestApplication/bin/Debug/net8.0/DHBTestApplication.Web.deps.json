@@ -11,7 +11,7 @@
           "DHBTestApplication.Application": "1.0.0",
           "DHBTestApplication.Domain": "1.0.0",
           "DHBTestApplication.Infrastructure": "1.0.0",
-          "Radzen.Blazor": "5.7.3"
+          "Radzen.Blazor": "5.7.4"
         },
         "runtime": {
           "DHBTestApplication.Web.dll": {}
@@ -94,7 +94,7 @@
       },
       "Microsoft.Extensions.Primitives/8.0.0": {},
       "Microsoft.JSInterop/8.0.0": {},
-      "Radzen.Blazor/5.7.3": {
+      "Radzen.Blazor/5.7.4": {
         "dependencies": {
           "DartSassBuilder": "1.0.0",
           "Microsoft.AspNetCore.Components": "8.0.0",
@@ -103,8 +103,8 @@
         },
         "runtime": {
           "lib/net8.0/Radzen.Blazor.dll": {
-            "assemblyVersion": "5.7.3.0",
-            "fileVersion": "5.7.3.0"
+            "assemblyVersion": "5.7.4.0",
+            "fileVersion": "5.7.4.0"
           }
         }
       },
@@ -160,10 +160,7 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.0"
         },
         "runtime": {
-          "DHBTestApplication.Application.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "DHBTestApplication.Application.dll": {}
         }
       },
       "DHBTestApplication.Domain/1.0.0": {
@@ -171,10 +168,7 @@
           "System.Text.Json": "9.0.0"
         },
         "runtime": {
-          "DHBTestApplication.Domain.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "DHBTestApplication.Domain.dll": {}
         }
       },
       "DHBTestApplication.Infrastructure/1.0.0": {
@@ -183,10 +177,7 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.0"
         },
         "runtime": {
-          "DHBTestApplication.Infrastructure.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "DHBTestApplication.Infrastructure.dll": {}
         }
       }
     }
@@ -302,12 +293,12 @@
       "path": "microsoft.jsinterop/8.0.0",
       "hashPath": "microsoft.jsinterop.8.0.0.nupkg.sha512"
     },
-    "Radzen.Blazor/5.7.3": {
+    "Radzen.Blazor/5.7.4": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-2VheUHNXkBNEGj0iuxjADye2vqes/S1qqMEXwCTbjMQrtpJx1UjadE4QmTOAtOA3WJOmxcrdBwgfISvZnQLISg==",
-      "path": "radzen.blazor/5.7.3",
-      "hashPath": "radzen.blazor.5.7.3.nupkg.sha512"
+      "sha512": "sha512-jKy1zZUp+K0T0YT9eg4kekq9WQNWPezB/CYA9s+VULzphg5zG9Opqa7ARy9bgKBH4GszizrAN+InxPyiGH7grQ==",
+      "path": "radzen.blazor/5.7.4",
+      "hashPath": "radzen.blazor.5.7.4.nupkg.sha512"
     },
     "System.IO.Pipelines/9.0.0": {
       "type": "package",

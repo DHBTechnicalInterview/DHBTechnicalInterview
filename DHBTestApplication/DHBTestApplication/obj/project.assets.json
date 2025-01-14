@@ -232,7 +232,7 @@
           }
         }
       },
-      "Radzen.Blazor/5.7.3": {
+      "Radzen.Blazor/5.7.4": {
         "type": "package",
         "dependencies": {
           "DartSassBuilder": "1.0.0",
@@ -770,10 +770,10 @@
         "microsoft.jsinterop.nuspec"
       ]
     },
-    "Radzen.Blazor/5.7.3": {
-      "sha512": "2VheUHNXkBNEGj0iuxjADye2vqes/S1qqMEXwCTbjMQrtpJx1UjadE4QmTOAtOA3WJOmxcrdBwgfISvZnQLISg==",
+    "Radzen.Blazor/5.7.4": {
+      "sha512": "jKy1zZUp+K0T0YT9eg4kekq9WQNWPezB/CYA9s+VULzphg5zG9Opqa7ARy9bgKBH4GszizrAN+InxPyiGH7grQ==",
       "type": "package",
-      "path": "radzen.blazor/5.7.3",
+      "path": "radzen.blazor/5.7.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -793,7 +793,7 @@
         "lib/net8.0/Radzen.Blazor.xml",
         "lib/net9.0/Radzen.Blazor.dll",
         "lib/net9.0/Radzen.Blazor.xml",
-        "radzen.blazor.5.7.3.nupkg.sha512",
+        "radzen.blazor.5.7.4.nupkg.sha512",
         "radzen.blazor.nuspec",
         "staticwebassets/Radzen.Blazor.js",
         "staticwebassets/css/dark-base.css",
@@ -1043,51 +1043,42 @@
       "DHBTestApplication.Application >= 1.0.0",
       "DHBTestApplication.Domain >= 1.0.0",
       "DHBTestApplication.Infrastructure >= 1.0.0",
-      "Radzen.Blazor >= 5.7.3"
+      "Radzen.Blazor >= 5.7.4"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Elliot Lake\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/oww/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\DHBTestApplication.Web.csproj",
+      "projectUniqueName": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication/DHBTestApplication.Web.csproj",
       "projectName": "DHBTestApplication.Web",
-      "projectPath": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\DHBTestApplication.Web.csproj",
-      "packagesPath": "C:\\Users\\Elliot Lake\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\obj\\",
+      "projectPath": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication/DHBTestApplication.Web.csproj",
+      "packagesPath": "/Users/oww/.nuget/packages/",
+      "outputPath": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Elliot Lake\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/oww/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://doverport.pkgs.visualstudio.com/e42cf185-ba47-4267-b654-3718ea8931ee/_packaging/IT_DEVELOPMENT_POD/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Application\\DHBTestApplication.Application.csproj": {
-              "projectPath": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Application\\DHBTestApplication.Application.csproj"
+            "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/DHBTestApplication.Application.csproj": {
+              "projectPath": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/DHBTestApplication.Application.csproj"
             },
-            "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Domain\\DHBTestApplication.Domain.csproj": {
-              "projectPath": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Domain\\DHBTestApplication.Domain.csproj"
+            "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Domain/DHBTestApplication.Domain.csproj": {
+              "projectPath": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Domain/DHBTestApplication.Domain.csproj"
             },
-            "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Infrastructure\\DHBTestApplication.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Infrastructure\\DHBTestApplication.Infrastructure.csproj"
+            "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Infrastructure/DHBTestApplication.Infrastructure.csproj": {
+              "projectPath": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Infrastructure/DHBTestApplication.Infrastructure.csproj"
             }
           }
         }
@@ -1096,11 +1087,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1109,7 +1095,7 @@
         "dependencies": {
           "Radzen.Blazor": {
             "target": "Package",
-            "version": "[5.7.3, )"
+            "version": "[5.7.4, )"
           }
         },
         "imports": [
@@ -1131,7 +1117,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet@8/8.0.11/libexec/sdk/8.0.111/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

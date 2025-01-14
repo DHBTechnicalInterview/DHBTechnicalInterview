@@ -1,34 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Infrastructure\\DHBTestApplication.Infrastructure.csproj": {}
+    "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Infrastructure/DHBTestApplication.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Domain\\DHBTestApplication.Domain.csproj": {
+    "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Domain/DHBTestApplication.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Domain\\DHBTestApplication.Domain.csproj",
+        "projectUniqueName": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Domain/DHBTestApplication.Domain.csproj",
         "projectName": "DHBTestApplication.Domain",
-        "projectPath": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Domain\\DHBTestApplication.Domain.csproj",
-        "packagesPath": "C:\\Users\\Elliot Lake\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Domain\\obj\\",
+        "projectPath": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Domain/DHBTestApplication.Domain.csproj",
+        "packagesPath": "/Users/oww/.nuget/packages/",
+        "outputPath": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Domain/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Elliot Lake\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/oww/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://doverport.pkgs.visualstudio.com/e42cf185-ba47-4267-b654-3718ea8931ee/_packaging/IT_DEVELOPMENT_POD/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -40,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -72,42 +59,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet@8/8.0.11/libexec/sdk/8.0.111/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Infrastructure\\DHBTestApplication.Infrastructure.csproj": {
+    "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Infrastructure/DHBTestApplication.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Infrastructure\\DHBTestApplication.Infrastructure.csproj",
+        "projectUniqueName": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Infrastructure/DHBTestApplication.Infrastructure.csproj",
         "projectName": "DHBTestApplication.Infrastructure",
-        "projectPath": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Infrastructure\\DHBTestApplication.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Elliot Lake\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Infrastructure\\obj\\",
+        "projectPath": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Infrastructure/DHBTestApplication.Infrastructure.csproj",
+        "packagesPath": "/Users/oww/.nuget/packages/",
+        "outputPath": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Infrastructure/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Elliot Lake\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/oww/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://doverport.pkgs.visualstudio.com/e42cf185-ba47-4267-b654-3718ea8931ee/_packaging/IT_DEVELOPMENT_POD/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Domain\\DHBTestApplication.Domain.csproj": {
-                "projectPath": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication.Domain\\DHBTestApplication.Domain.csproj"
+              "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Domain/DHBTestApplication.Domain.csproj": {
+                "projectPath": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Domain/DHBTestApplication.Domain.csproj"
               }
             }
           }
@@ -116,11 +95,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -148,7 +122,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet@8/8.0.11/libexec/sdk/8.0.111/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

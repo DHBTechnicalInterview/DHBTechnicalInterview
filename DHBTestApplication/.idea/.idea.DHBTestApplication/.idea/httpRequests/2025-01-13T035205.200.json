@@ -1,0 +1,1882 @@
+[
+  {
+    "name": {
+      "common": "United Kingdom",
+      "official": "United Kingdom of Great Britain and Northern Ireland",
+      "nativeName": {
+        "deu": null
+      }
+    },
+    "tld": [
+      ".uk"
+    ],
+    "cca2": "GB",
+    "ccn3": "826",
+    "cca3": "GBR",
+    "cioc": "GBR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "eur": null
+    },
+    "idd": {
+      "root": "+4",
+      "suffixes": [
+        "4"
+      ]
+    },
+    "capital": [
+      "London"
+    ],
+    "altSpellings": [
+      "GB",
+      "UK",
+      "Great Britain"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": {
+      "deu": null
+    },
+    "translations": {
+      "ara": {
+        "official": "المملكة المتحدة لبريطانيا العظمى وايرلندا الشمالية",
+        "common": "المملكة المتحدة"
+      },
+      "bre": {
+        "official": "Rouantelezh-Unanet Breizh-Veur ha Norzhiwerzhon",
+        "common": "Rouantelezh-Unanet"
+      },
+      "ces": {
+        "official": "Spojené království Velké Británie a Severního Irska",
+        "common": "Spojené království"
+      },
+      "cym": {
+        "official": "United Kingdom of Great Britain and Northern Ireland",
+        "common": "United Kingdom"
+      },
+      "deu": {
+        "official": "Vereinigtes Königreich Großbritannien und Nordirland",
+        "common": "Vereinigtes Königreich"
+      },
+      "est": {
+        "official": "Suurbritannia ja Põhja-Iiri Ühendkuningriik",
+        "common": "Suurbritannia"
+      },
+      "fin": {
+        "official": "Ison-Britannian ja Pohjois-Irlannin yhdistynyt kuningaskunta",
+        "common": "Yhdistynyt kuningaskunta"
+      },
+      "fra": {
+        "official": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord",
+        "common": "Royaume-Uni",
+        "f": null,
+        "m": null
+      },
+      "hrv": {
+        "official": "Ujedinjeno Kraljevstvo Velike Britanije i Sjeverne Irske",
+        "common": "Ujedinjeno Kraljevstvo"
+      },
+      "hun": {
+        "official": "Nagy-Britannia és Észak-Írország Egyesült Királysága",
+        "common": "Egyesült Királyság"
+      },
+      "ita": {
+        "official": "Regno Unito di Gran Bretagna e Irlanda del Nord",
+        "common": "Regno Unito"
+      },
+      "jpn": {
+        "official": "グレート·ブリテンおよび北アイルランド連合王国",
+        "common": "イギリス"
+      },
+      "kor": {
+        "official": "그레이트브리튼 북아일랜드 연합 왕국",
+        "common": "영국"
+      },
+      "nld": {
+        "official": "Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland",
+        "common": "Verenigd Koninkrijk"
+      },
+      "per": {
+        "official": "پادشاهی متحد بریتانیای کبیر و ایرلند شمالی",
+        "common": "انگلیس"
+      },
+      "pol": {
+        "official": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej",
+        "common": "Zjednoczone Królestwo"
+      },
+      "por": {
+        "official": "Reino Unido da Grã-Bretanha e Irlanda do Norte",
+        "common": "Reino Unido"
+      },
+      "rus": {
+        "official": "Соединенное Королевство Великобритании и Северной Ирландии",
+        "common": "Великобритания"
+      },
+      "slk": {
+        "official": "Spojené kráľovstvo Veľkej Británie a SevernéhoÌrska",
+        "common": "Veľká Británia (Spojené kráľovstvo)"
+      },
+      "spa": {
+        "official": "Reino Unido de Gran Bretaña e Irlanda del Norte",
+        "common": "Reino Unido"
+      },
+      "srp": null,
+      "swe": {
+        "official": "Förenade konungariket Storbritannien och Nordirland",
+        "common": "Storbritannien"
+      },
+      "tur": null,
+      "urd": {
+        "official": "مملکتِ متحدہ برطانیہ عظمی و شمالی آئرلینڈ",
+        "common": "مملکتِ متحدہ"
+      },
+      "zho": {
+        "official": "大不列颠及北爱尔兰联合王国",
+        "common": "英国"
+      }
+    },
+    "latlng": [
+      54,
+      -2
+    ],
+    "landlocked": false,
+    "borders": [
+      "IRL"
+    ],
+    "area": 242900,
+    "demonyms": {
+      "eng": {
+        "f": "British",
+        "m": "British"
+      },
+      "fra": {
+        "official": null,
+        "common": null,
+        "f": "Britannique",
+        "m": "Britannique"
+      }
+    },
+    "flag": "🇬🇧",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/FoDtc3UKMkFsXAjHA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/62149"
+    },
+    "population": 67215293,
+    "gini": {
+      "_2016": 0
+    },
+    "fifa": null,
+    "car": {
+      "signs": [
+        "GB"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-08:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00",
+      "UTC",
+      "UTC+01:00",
+      "UTC+02:00",
+      "UTC+06:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "coatOfArms": null,
+    "startOfWeek": null,
+    "capitalInfo": null,
+    "postalCode": null
+  },
+  {
+    "name": {
+      "common": "Niue",
+      "official": "Niue",
+      "nativeName": {
+        "deu": null
+      }
+    },
+    "tld": [
+      ".nu"
+    ],
+    "cca2": "NU",
+    "ccn3": "570",
+    "cca3": "NIU",
+    "cioc": null,
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "eur": null
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "83"
+      ]
+    },
+    "capital": [
+      "Alofi"
+    ],
+    "altSpellings": [
+      "NU"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": {
+      "deu": null
+    },
+    "translations": {
+      "ara": {
+        "official": "نييوي",
+        "common": "نييوي"
+      },
+      "bre": {
+        "official": "Niue",
+        "common": "Niue"
+      },
+      "ces": {
+        "official": "Niue",
+        "common": "Niue"
+      },
+      "cym": {
+        "official": "Niue",
+        "common": "Niue"
+      },
+      "deu": {
+        "official": "Niue",
+        "common": "Niue"
+      },
+      "est": {
+        "official": "Niue",
+        "common": "Niue"
+      },
+      "fin": {
+        "official": "Niue",
+        "common": "Niue"
+      },
+      "fra": {
+        "official": "Niue",
+        "common": "Niue",
+        "f": null,
+        "m": null
+      },
+      "hrv": {
+        "official": "Niue",
+        "common": "Niue"
+      },
+      "hun": {
+        "official": "Niue",
+        "common": "Niue"
+      },
+      "ita": {
+        "official": "Niue",
+        "common": "Niue"
+      },
+      "jpn": {
+        "official": "ニウエ",
+        "common": "ニウエ"
+      },
+      "kor": {
+        "official": "니우에",
+        "common": "니우에"
+      },
+      "nld": {
+        "official": "Niue",
+        "common": "Niue"
+      },
+      "per": {
+        "official": "نیووی",
+        "common": "نیووی"
+      },
+      "pol": {
+        "official": "Niue",
+        "common": "Niue"
+      },
+      "por": {
+        "official": "Niue",
+        "common": "Niue"
+      },
+      "rus": {
+        "official": "Ниуэ",
+        "common": "Ниуэ"
+      },
+      "slk": {
+        "official": "Niue",
+        "common": "Niue"
+      },
+      "spa": {
+        "official": "Niue",
+        "common": "Niue"
+      },
+      "srp": null,
+      "swe": {
+        "official": "Niue",
+        "common": "Niue"
+      },
+      "tur": null,
+      "urd": {
+        "official": "نیووے",
+        "common": "نیووے"
+      },
+      "zho": {
+        "official": "纽埃",
+        "common": "纽埃"
+      }
+    },
+    "latlng": [
+      -19.03333333,
+      -169.86666666
+    ],
+    "landlocked": false,
+    "borders": null,
+    "area": 260,
+    "demonyms": {
+      "eng": {
+        "f": "Niuean",
+        "m": "Niuean"
+      },
+      "fra": {
+        "official": null,
+        "common": null,
+        "f": "Niuéenne",
+        "m": "Niuéen"
+      }
+    },
+    "flag": "🇳🇺",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/xFgdzs3E55Rk1y8P9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1558556"
+    },
+    "population": 1470,
+    "gini": null,
+    "fifa": null,
+    "car": {
+      "signs": [
+        "NZ"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-11:00"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "coatOfArms": null,
+    "startOfWeek": null,
+    "capitalInfo": null,
+    "postalCode": null
+  },
+  {
+    "name": {
+      "common": "Brunei",
+      "official": "Nation of Brunei, Abode of Peace",
+      "nativeName": {
+        "deu": null
+      }
+    },
+    "tld": [
+      ".bn"
+    ],
+    "cca2": "BN",
+    "ccn3": "096",
+    "cca3": "BRN",
+    "cioc": "BRU",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "eur": null
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "73"
+      ]
+    },
+    "capital": [
+      "Bandar Seri Begawan"
+    ],
+    "altSpellings": [
+      "BN",
+      "Brunei Darussalam",
+      "Nation of Brunei",
+      "the Abode of Peace"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+      "deu": null
+    },
+    "translations": {
+      "ara": {
+        "official": "بروناي دار السلام",
+        "common": "بروناي"
+      },
+      "bre": {
+        "official": "Stad Brunei Darussalam",
+        "common": "Brunei"
+      },
+      "ces": {
+        "official": "Sultanát Brunej",
+        "common": "Brunej"
+      },
+      "cym": {
+        "official": "Teyrnas Brwnei",
+        "common": "Brunei"
+      },
+      "deu": {
+        "official": "Sultanat Brunei Darussalam",
+        "common": "Brunei"
+      },
+      "est": {
+        "official": "Brunei Darussalami Riik",
+        "common": "Brunei"
+      },
+      "fin": {
+        "official": "Brunei Darussalamin valtio",
+        "common": "Brunei"
+      },
+      "fra": {
+        "official": "État de Brunei Darussalam",
+        "common": "Brunei",
+        "f": null,
+        "m": null
+      },
+      "hrv": {
+        "official": "Nacija od Bruneja, Kuću Mira",
+        "common": "Brunej"
+      },
+      "hun": {
+        "official": "Brunei Szultanátus",
+        "common": "Brunei"
+      },
+      "ita": {
+        "official": "Nazione di Brunei, Dimora della Pace",
+        "common": "Brunei"
+      },
+      "jpn": {
+        "official": "ブルネイ、平和の精舎の国家",
+        "common": "ブルネイ・ダルサラーム"
+      },
+      "kor": {
+        "official": "브루나이 다루살람국",
+        "common": "브루나이"
+      },
+      "nld": {
+        "official": "Natie van Brunei, de verblijfplaats van de Vrede",
+        "common": "Brunei"
+      },
+      "per": {
+        "official": "برونئی سرای صلح",
+        "common": "برونئی"
+      },
+      "pol": {
+        "official": "Państwo Brunei Darussalam",
+        "common": "Brunei"
+      },
+      "por": {
+        "official": "Nação do Brunei, Morada da Paz",
+        "common": "Brunei"
+      },
+      "rus": {
+        "official": "Нация Бруней, обитель мира",
+        "common": "Бруней"
+      },
+      "slk": {
+        "official": "Brunejský sultanât",
+        "common": "Brunej"
+      },
+      "spa": {
+        "official": "Nación de Brunei, Morada de la Paz",
+        "common": "Brunei"
+      },
+      "srp": null,
+      "swe": {
+        "official": "Brunei Darussalam",
+        "common": "Brunei"
+      },
+      "tur": null,
+      "urd": {
+        "official": "ریاستِ برونائی دارالسلام",
+        "common": "برونائی"
+      },
+      "zho": {
+        "official": "文莱和平之国",
+        "common": "文莱"
+      }
+    },
+    "latlng": [
+      4.5,
+      114.66666666
+    ],
+    "landlocked": false,
+    "borders": [
+      "MYS"
+    ],
+    "area": 5765,
+    "demonyms": {
+      "eng": {
+        "f": "Bruneian",
+        "m": "Bruneian"
+      },
+      "fra": {
+        "official": null,
+        "common": null,
+        "f": "Brunéienne",
+        "m": "Brunéien"
+      }
+    },
+    "flag": "🇧🇳",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4jb4CqBXhr8vNh579",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2103120"
+    },
+    "population": 437483,
+    "gini": null,
+    "fifa": "BRU",
+    "car": {
+      "signs": [
+        "BRU"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "coatOfArms": null,
+    "startOfWeek": null,
+    "capitalInfo": null,
+    "postalCode": null
+  },
+  {
+    "name": {
+      "common": "Réunion",
+      "official": "Réunion Island",
+      "nativeName": {
+        "deu": null
+      }
+    },
+    "tld": [
+      ".re"
+    ],
+    "cca2": "RE",
+    "ccn3": "638",
+    "cca3": "REU",
+    "cioc": null,
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "eur": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "62"
+      ]
+    },
+    "capital": [
+      "Saint-Denis"
+    ],
+    "altSpellings": [
+      "RE",
+      "Reunion"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "deu": null
+    },
+    "translations": {
+      "ara": {
+        "official": "جزيرة لا ريونيون",
+        "common": "لا ريونيون"
+      },
+      "bre": {
+        "official": "Enez ar Reünion",
+        "common": "Reünion"
+      },
+      "ces": {
+        "official": "Réunion",
+        "common": "Réunion"
+      },
+      "cym": {
+        "official": "Réunion Island",
+        "common": "Réunion"
+      },
+      "deu": {
+        "official": "Réunion",
+        "common": "Réunion"
+      },
+      "est": {
+        "official": "Réunioni departemang",
+        "common": "Réunion"
+      },
+      "fin": {
+        "official": "Réunion",
+        "common": "Réunion"
+      },
+      "fra": {
+        "official": "Ile de la Réunion",
+        "common": "Réunion",
+        "f": null,
+        "m": null
+      },
+      "hrv": {
+        "official": "Réunion Island",
+        "common": "Réunion"
+      },
+      "hun": {
+        "official": "Réunion",
+        "common": "Réunion"
+      },
+      "ita": {
+        "official": "Réunion",
+        "common": "Riunione"
+      },
+      "jpn": {
+        "official": "レユニオン島",
+        "common": "レユニオン"
+      },
+      "kor": {
+        "official": "레위니옹",
+        "common": "레위니옹"
+      },
+      "nld": {
+        "official": "Réunion",
+        "common": "Réunion"
+      },
+      "per": {
+        "official": "رئونیون",
+        "common": "رئونیون"
+      },
+      "pol": {
+        "official": "Reunion",
+        "common": "Reunion"
+      },
+      "por": {
+        "official": "Ilha da Reunião",
+        "common": "Reunião"
+      },
+      "rus": {
+        "official": "Реюньон",
+        "common": "Реюньон"
+      },
+      "slk": {
+        "official": "Réunionský zámorský departmán",
+        "common": "Réunion"
+      },
+      "spa": {
+        "official": "Isla de la Reunión",
+        "common": "Reunión"
+      },
+      "srp": null,
+      "swe": {
+        "official": "Réunion",
+        "common": "Réunion"
+      },
+      "tur": null,
+      "urd": {
+        "official": "رے یونیوں جزیرہ",
+        "common": "رے یونیوں"
+      },
+      "zho": {
+        "official": "留尼旺岛",
+        "common": "留尼旺岛"
+      }
+    },
+    "latlng": [
+      -21.15,
+      55.5
+    ],
+    "landlocked": false,
+    "borders": null,
+    "area": 2511,
+    "demonyms": {
+      "eng": {
+        "f": "Réunionese",
+        "m": "Réunionese"
+      },
+      "fra": {
+        "official": null,
+        "common": null,
+        "f": "Réunionnaise",
+        "m": "Réunionnais"
+      }
+    },
+    "flag": "🇷🇪",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/wWpBrXsp8UHVbah29",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1785276"
+    },
+    "population": 840974,
+    "gini": null,
+    "fifa": null,
+    "car": {
+      "signs": [
+        "F"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "coatOfArms": null,
+    "startOfWeek": null,
+    "capitalInfo": null,
+    "postalCode": null
+  },
+  {
+    "name": {
+      "common": "India",
+      "official": "Republic of India",
+      "nativeName": {
+        "deu": null
+      }
+    },
+    "tld": [
+      ".in"
+    ],
+    "cca2": "IN",
+    "ccn3": "356",
+    "cca3": "IND",
+    "cioc": "IND",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "eur": null
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "1"
+      ]
+    },
+    "capital": [
+      "New Delhi"
+    ],
+    "altSpellings": [
+      "IN",
+      "Bhārat",
+      "Republic of India",
+      "Bharat Ganrajya",
+      "இந்தியா"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+      "deu": null
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية الهند",
+        "common": "الهند"
+      },
+      "bre": {
+        "official": "Republik India",
+        "common": "India"
+      },
+      "ces": {
+        "official": "Indická republika",
+        "common": "Indie"
+      },
+      "cym": {
+        "official": "Republic of India",
+        "common": "India"
+      },
+      "deu": {
+        "official": "Republik Indien",
+        "common": "Indien"
+      },
+      "est": {
+        "official": "India Vabariik",
+        "common": "India"
+      },
+      "fin": {
+        "official": "Intian tasavalta",
+        "common": "Intia"
+      },
+      "fra": {
+        "official": "République de l'Inde",
+        "common": "Inde",
+        "f": null,
+        "m": null
+      },
+      "hrv": {
+        "official": "Republika Indija",
+        "common": "Indija"
+      },
+      "hun": {
+        "official": "Indiai Köztársaság",
+        "common": "India"
+      },
+      "ita": {
+        "official": "Repubblica dell'India",
+        "common": "India"
+      },
+      "jpn": {
+        "official": "インド共和国",
+        "common": "インド"
+      },
+      "kor": {
+        "official": "인도 공화국",
+        "common": "인도"
+      },
+      "nld": {
+        "official": "Republiek India",
+        "common": "India"
+      },
+      "per": {
+        "official": "جمهوری هندوستان",
+        "common": "هند"
+      },
+      "pol": {
+        "official": "Republika Indii",
+        "common": "Indie"
+      },
+      "por": {
+        "official": "República da Índia",
+        "common": "Índia"
+      },
+      "rus": {
+        "official": "Республика Индия",
+        "common": "Индия"
+      },
+      "slk": {
+        "official": "Indická republika",
+        "common": "India"
+      },
+      "spa": {
+        "official": "República de la India",
+        "common": "India"
+      },
+      "srp": null,
+      "swe": {
+        "official": "Republiken Indien",
+        "common": "Indien"
+      },
+      "tur": null,
+      "urd": {
+        "official": "جمہوریہ بھارت",
+        "common": "بھارت"
+      },
+      "zho": {
+        "official": "印度共和国",
+        "common": "印度"
+      }
+    },
+    "latlng": [
+      20,
+      77
+    ],
+    "landlocked": false,
+    "borders": [
+      "BGD",
+      "BTN",
+      "MMR",
+      "CHN",
+      "NPL",
+      "PAK"
+    ],
+    "area": 3287590,
+    "demonyms": {
+      "eng": {
+        "f": "Indian",
+        "m": "Indian"
+      },
+      "fra": {
+        "official": null,
+        "common": null,
+        "f": "Indienne",
+        "m": "Indien"
+      }
+    },
+    "flag": "🇮🇳",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/WSk3fLwG4vtPQetp7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/304716"
+    },
+    "population": 1380004385,
+    "gini": {
+      "_2016": 0
+    },
+    "fifa": "IND",
+    "car": {
+      "signs": [
+        "IND"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+05:30"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "coatOfArms": null,
+    "startOfWeek": null,
+    "capitalInfo": null,
+    "postalCode": null
+  },
+  {
+    "name": {
+      "common": "Niger",
+      "official": "Republic of Niger",
+      "nativeName": {
+        "deu": null
+      }
+    },
+    "tld": [
+      ".ne"
+    ],
+    "cca2": "NE",
+    "ccn3": "562",
+    "cca3": "NER",
+    "cioc": "NIG",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "eur": null
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "27"
+      ]
+    },
+    "capital": [
+      "Niamey"
+    ],
+    "altSpellings": [
+      "NE",
+      "Nijar"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "deu": null
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية النيجر",
+        "common": "النيجر"
+      },
+      "bre": {
+        "official": "Republik Niger",
+        "common": "Niger"
+      },
+      "ces": {
+        "official": "Nigerská republika",
+        "common": "Niger"
+      },
+      "cym": {
+        "official": "Republic of Niger",
+        "common": "Niger"
+      },
+      "deu": {
+        "official": "Republik Niger",
+        "common": "Niger"
+      },
+      "est": {
+        "official": "Nigeri Vabariik",
+        "common": "Niger"
+      },
+      "fin": {
+        "official": "Nigerin tasavalta",
+        "common": "Niger"
+      },
+      "fra": {
+        "official": "République du Niger",
+        "common": "Niger",
+        "f": null,
+        "m": null
+      },
+      "hrv": {
+        "official": "Republika Niger",
+        "common": "Niger"
+      },
+      "hun": {
+        "official": "Nigeri Köztársaság",
+        "common": "Niger"
+      },
+      "ita": {
+        "official": "Repubblica del Niger",
+        "common": "Niger"
+      },
+      "jpn": {
+        "official": "ニジェール共和国",
+        "common": "ニジェール"
+      },
+      "kor": {
+        "official": "니제르 공화국",
+        "common": "니제르"
+      },
+      "nld": {
+        "official": "Republiek Niger",
+        "common": "Niger"
+      },
+      "per": {
+        "official": "جمهوری نیجر",
+        "common": "نیجر"
+      },
+      "pol": {
+        "official": "Republika Nigru",
+        "common": "Niger"
+      },
+      "por": {
+        "official": "República do Níger",
+        "common": "Níger"
+      },
+      "rus": {
+        "official": "Республика Нигер",
+        "common": "Нигер"
+      },
+      "slk": {
+        "official": "Nigérská republika",
+        "common": "Niger"
+      },
+      "spa": {
+        "official": "República de Níger",
+        "common": "Níger"
+      },
+      "srp": null,
+      "swe": {
+        "official": "Republiken Niger",
+        "common": "Niger"
+      },
+      "tur": null,
+      "urd": {
+        "official": "جمہوریہ نائجر",
+        "common": "نائجر"
+      },
+      "zho": {
+        "official": "尼日尔共和国",
+        "common": "尼日尔"
+      }
+    },
+    "latlng": [
+      16,
+      8
+    ],
+    "landlocked": true,
+    "borders": [
+      "DZA",
+      "BEN",
+      "BFA",
+      "TCD",
+      "LBY",
+      "MLI",
+      "NGA"
+    ],
+    "area": 1267000,
+    "demonyms": {
+      "eng": {
+        "f": "Nigerien",
+        "m": "Nigerien"
+      },
+      "fra": {
+        "official": null,
+        "common": null,
+        "f": "Nigérienne",
+        "m": "Nigérien"
+      }
+    },
+    "flag": "🇳🇪",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/VKNU2TLsZcgxM49c8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192786"
+    },
+    "population": 24206636,
+    "gini": {
+      "_2016": 0
+    },
+    "fifa": "NIG",
+    "car": {
+      "signs": [
+        "RN"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "coatOfArms": null,
+    "startOfWeek": null,
+    "capitalInfo": null,
+    "postalCode": null
+  },
+  {
+    "name": {
+      "common": "Haiti",
+      "official": "Republic of Haiti",
+      "nativeName": {
+        "deu": null
+      }
+    },
+    "tld": [
+      ".ht"
+    ],
+    "cca2": "HT",
+    "ccn3": "332",
+    "cca3": "HTI",
+    "cioc": "HAI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "eur": null
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "09"
+      ]
+    },
+    "capital": [
+      "Port-au-Prince"
+    ],
+    "altSpellings": [
+      "HT",
+      "Republic of Haiti",
+      "République d'Haïti",
+      "Repiblik Ayiti"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "deu": null
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية هايتي",
+        "common": "هايتي"
+      },
+      "bre": {
+        "official": "Republik Haiti",
+        "common": "Haiti"
+      },
+      "ces": {
+        "official": "Republika Haiti",
+        "common": "Haiti"
+      },
+      "cym": {
+        "official": "Republic of Haiti",
+        "common": "Haiti"
+      },
+      "deu": {
+        "official": "Republik Haiti",
+        "common": "Haiti"
+      },
+      "est": {
+        "official": "Haiti Vabariik",
+        "common": "Haiti"
+      },
+      "fin": {
+        "official": "Haitin tasavalta",
+        "common": "Haiti"
+      },
+      "fra": {
+        "official": "République d'Haïti",
+        "common": "Haïti",
+        "f": null,
+        "m": null
+      },
+      "hrv": {
+        "official": "Republika Haiti",
+        "common": "Haiti"
+      },
+      "hun": {
+        "official": "Haiti Köztársaság",
+        "common": "Haiti"
+      },
+      "ita": {
+        "official": "Repubblica di Haiti",
+        "common": "Haiti"
+      },
+      "jpn": {
+        "official": "ハイチ共和国",
+        "common": "ハイチ"
+      },
+      "kor": {
+        "official": "아이티 공화국",
+        "common": "아이티"
+      },
+      "nld": {
+        "official": "Republiek Haïti",
+        "common": "Haïti"
+      },
+      "per": {
+        "official": "جمهوری هائیتی",
+        "common": "هائیتی"
+      },
+      "pol": {
+        "official": "Republika Haiti",
+        "common": "Haiti"
+      },
+      "por": {
+        "official": "República do Haiti",
+        "common": "Haiti"
+      },
+      "rus": {
+        "official": "Республика Гаити",
+        "common": "Гаити"
+      },
+      "slk": {
+        "official": "Haitská republika",
+        "common": "Haiti"
+      },
+      "spa": {
+        "official": "República de Haití",
+        "common": "Haití"
+      },
+      "srp": null,
+      "swe": {
+        "official": "Republiken Haiti",
+        "common": "Haiti"
+      },
+      "tur": null,
+      "urd": {
+        "official": "جمہوریہ ہیٹی",
+        "common": "ہیٹی"
+      },
+      "zho": {
+        "official": "海地共和国",
+        "common": "海地"
+      }
+    },
+    "latlng": [
+      19,
+      -72.41666666
+    ],
+    "landlocked": false,
+    "borders": [
+      "DOM"
+    ],
+    "area": 27750,
+    "demonyms": {
+      "eng": {
+        "f": "Haitian",
+        "m": "Haitian"
+      },
+      "fra": {
+        "official": null,
+        "common": null,
+        "f": "Haïtienne",
+        "m": "Haïtien"
+      }
+    },
+    "flag": "🇭🇹",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/9o13xtjuUdqFnHbn9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307829"
+    },
+    "population": 11402533,
+    "gini": {
+      "_2016": 0
+    },
+    "fifa": "HAI",
+    "car": {
+      "signs": [
+        "RH"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "coatOfArms": null,
+    "startOfWeek": null,
+    "capitalInfo": null,
+    "postalCode": null
+  },
+  {
+    "name": {
+      "common": "Tunisia",
+      "official": "Tunisian Republic",
+      "nativeName": {
+        "deu": null
+      }
+    },
+    "tld": [
+      ".tn"
+    ],
+    "cca2": "TN",
+    "ccn3": "788",
+    "cca3": "TUN",
+    "cioc": "TUN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "eur": null
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "16"
+      ]
+    },
+    "capital": [
+      "Tunis"
+    ],
+    "altSpellings": [
+      "TN",
+      "Republic of Tunisia",
+      "al-Jumhūriyyah at-Tūnisiyyah"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": {
+      "deu": null
+    },
+    "translations": {
+      "ara": {
+        "official": "الجمهورية التونسية",
+        "common": "تونس"
+      },
+      "bre": {
+        "official": "Republik Tunizian",
+        "common": "Tunizia"
+      },
+      "ces": {
+        "official": "Tuniská republika",
+        "common": "Tunisko"
+      },
+      "cym": {
+        "official": "Tunisian Republic",
+        "common": "Tunisia"
+      },
+      "deu": {
+        "official": "Tunesische Republik",
+        "common": "Tunesien"
+      },
+      "est": {
+        "official": "Tuneesia Vabariik",
+        "common": "Tuneesia"
+      },
+      "fin": {
+        "official": "Tunisian tasavalta",
+        "common": "Tunisia"
+      },
+      "fra": {
+        "official": "République tunisienne",
+        "common": "Tunisie",
+        "f": null,
+        "m": null
+      },
+      "hrv": {
+        "official": "Tuniski Republika",
+        "common": "Tunis"
+      },
+      "hun": {
+        "official": "Tunéziai Köztársaság",
+        "common": "Tunézia"
+      },
+      "ita": {
+        "official": "Repubblica tunisina",
+        "common": "Tunisia"
+      },
+      "jpn": {
+        "official": "チュニジア共和国",
+        "common": "チュニジア"
+      },
+      "kor": {
+        "official": "튀니지 공화국",
+        "common": "튀니지"
+      },
+      "nld": {
+        "official": "Republiek Tunesië",
+        "common": "Tunesië"
+      },
+      "per": {
+        "official": "جمهوری تونس",
+        "common": "تونس"
+      },
+      "pol": {
+        "official": "Republika Tunezyjska",
+        "common": "Tunezja"
+      },
+      "por": {
+        "official": "República da Tunísia",
+        "common": "Tunísia"
+      },
+      "rus": {
+        "official": "Тунисской Республики",
+        "common": "Тунис"
+      },
+      "slk": {
+        "official": "Tuniská republika",
+        "common": "Tunisko"
+      },
+      "spa": {
+        "official": "República de Túnez",
+        "common": "Túnez"
+      },
+      "srp": null,
+      "swe": {
+        "official": "Republiken Tunisien",
+        "common": "Tunisien"
+      },
+      "tur": null,
+      "urd": {
+        "official": "جمہوریہ تونس",
+        "common": "تونس"
+      },
+      "zho": {
+        "official": "突尼斯共和国",
+        "common": "突尼斯"
+      }
+    },
+    "latlng": [
+      34,
+      9
+    ],
+    "landlocked": false,
+    "borders": [
+      "DZA",
+      "LBY"
+    ],
+    "area": 163610,
+    "demonyms": {
+      "eng": {
+        "f": "Tunisian",
+        "m": "Tunisian"
+      },
+      "fra": {
+        "official": null,
+        "common": null,
+        "f": "Tunisienne",
+        "m": "Tunisien"
+      }
+    },
+    "flag": "🇹🇳",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/KgUmpZdUuNRaougs8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192757"
+    },
+    "population": 11818618,
+    "gini": {
+      "_2016": 0
+    },
+    "fifa": "TUN",
+    "car": {
+      "signs": [
+        "TN"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "coatOfArms": null,
+    "startOfWeek": null,
+    "capitalInfo": null,
+    "postalCode": null
+  },
+  {
+    "name": {
+      "common": "Nigeria",
+      "official": "Federal Republic of Nigeria",
+      "nativeName": {
+        "deu": null
+      }
+    },
+    "tld": [
+      ".ng"
+    ],
+    "cca2": "NG",
+    "ccn3": "566",
+    "cca3": "NGA",
+    "cioc": "NGR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "eur": null
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "34"
+      ]
+    },
+    "capital": [
+      "Abuja"
+    ],
+    "altSpellings": [
+      "NG",
+      "Nijeriya",
+      "Naíjíríà",
+      "Federal Republic of Nigeria"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "deu": null
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية نيجيريا الاتحادية",
+        "common": "نيجيريا"
+      },
+      "bre": {
+        "official": "Republik Kevreadel Nigeria",
+        "common": "Nigeria"
+      },
+      "ces": {
+        "official": "Nigerijská federativní republika",
+        "common": "Nigérie"
+      },
+      "cym": {
+        "official": "Federal Republic of Nigeria",
+        "common": "Nigeria"
+      },
+      "deu": {
+        "official": "Bundesrepublik Nigeria",
+        "common": "Nigeria"
+      },
+      "est": {
+        "official": "Nigeeria Liitvabariik",
+        "common": "Nigeeria"
+      },
+      "fin": {
+        "official": "Nigerian liittotasavalta",
+        "common": "Nigeria"
+      },
+      "fra": {
+        "official": "République fédérale du Nigeria",
+        "common": "Nigéria",
+        "f": null,
+        "m": null
+      },
+      "hrv": {
+        "official": "Savezna Republika Nigerija",
+        "common": "Nigerija"
+      },
+      "hun": {
+        "official": "Nigéria",
+        "common": "Nigéria"
+      },
+      "ita": {
+        "official": "Repubblica federale di Nigeria",
+        "common": "Nigeria"
+      },
+      "jpn": {
+        "official": "ナイジェリア連邦共和国",
+        "common": "ナイジェリア"
+      },
+      "kor": {
+        "official": "나이지리아 연방 공화국",
+        "common": "나이지리아"
+      },
+      "nld": {
+        "official": "Federale Republiek Nigeria",
+        "common": "Nigeria"
+      },
+      "per": {
+        "official": "جمهوری فدرال نیجریه",
+        "common": "نیجریه"
+      },
+      "pol": {
+        "official": "Federalna Republika Nigerii",
+        "common": "Nigeria"
+      },
+      "por": {
+        "official": "República Federal da Nigéria",
+        "common": "Nigéria"
+      },
+      "rus": {
+        "official": "Федеративная Республика Нигерия",
+        "common": "Нигерия"
+      },
+      "slk": {
+        "official": "Nigérijská federatívna republika",
+        "common": "Nigéria"
+      },
+      "spa": {
+        "official": "República Federal de Nigeria",
+        "common": "Nigeria"
+      },
+      "srp": null,
+      "swe": {
+        "official": "Förbundsrepubliken Nigeria",
+        "common": "Nigeria"
+      },
+      "tur": null,
+      "urd": {
+        "official": "وفاقی جمہوریہ نائجیریا",
+        "common": "نائجیریا"
+      },
+      "zho": {
+        "official": "尼日利亚联邦共和国",
+        "common": "尼日利亚"
+      }
+    },
+    "latlng": [
+      10,
+      8
+    ],
+    "landlocked": false,
+    "borders": [
+      "BEN",
+      "CMR",
+      "TCD",
+      "NER"
+    ],
+    "area": 923768,
+    "demonyms": {
+      "eng": {
+        "f": "Nigerian",
+        "m": "Nigerian"
+      },
+      "fra": {
+        "official": null,
+        "common": null,
+        "f": "Nigériane",
+        "m": "Nigérian"
+      }
+    },
+    "flag": "🇳🇬",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/LTn417qWwBPFszuV9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192787"
+    },
+    "population": 206139587,
+    "gini": {
+      "_2016": 0
+    },
+    "fifa": "NGA",
+    "car": {
+      "signs": [
+        "WAN"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "coatOfArms": null,
+    "startOfWeek": null,
+    "capitalInfo": null,
+    "postalCode": null
+  },
+  {
+    "name": {
+      "common": "Burundi",
+      "official": "Republic of Burundi",
+      "nativeName": {
+        "deu": null
+      }
+    },
+    "tld": [
+      ".bi"
+    ],
+    "cca2": "BI",
+    "ccn3": "108",
+    "cca3": "BDI",
+    "cioc": "BDI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "eur": null
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "57"
+      ]
+    },
+    "capital": [
+      "Gitega"
+    ],
+    "altSpellings": [
+      "BI",
+      "Republic of Burundi",
+      "Republika y'Uburundi",
+      "République du Burundi"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "deu": null
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية بوروندي",
+        "common": "بوروندي"
+      },
+      "bre": {
+        "official": "Republik Burundi",
+        "common": "Burundi"
+      },
+      "ces": {
+        "official": "Burundská republika",
+        "common": "Burundi"
+      },
+      "cym": {
+        "official": "Gweriniaeth Bwrwndi",
+        "common": "Bwrwndi"
+      },
+      "deu": {
+        "official": "Republik Burundi",
+        "common": "Burundi"
+      },
+      "est": {
+        "official": "Burundi Vabariik",
+        "common": "Burundi"
+      },
+      "fin": {
+        "official": "Burundin tasavalta",
+        "common": "Burundi"
+      },
+      "fra": {
+        "official": "République du Burundi",
+        "common": "Burundi",
+        "f": null,
+        "m": null
+      },
+      "hrv": {
+        "official": "Burundi",
+        "common": "Burundi"
+      },
+      "hun": {
+        "official": "Burundi",
+        "common": "Burundi"
+      },
+      "ita": {
+        "official": "Repubblica del Burundi",
+        "common": "Burundi"
+      },
+      "jpn": {
+        "official": "ブルンジ共和国",
+        "common": "ブルンジ"
+      },
+      "kor": {
+        "official": "부룬디",
+        "common": "부룬디"
+      },
+      "nld": {
+        "official": "Republiek Burundi",
+        "common": "Burundi"
+      },
+      "per": {
+        "official": "جمهوری بوروندی",
+        "common": "بوروندی"
+      },
+      "pol": {
+        "official": "Republika Burundi",
+        "common": "Burundi"
+      },
+      "por": {
+        "official": "República do Burundi",
+        "common": "Burundi"
+      },
+      "rus": {
+        "official": "Республика Бурунди",
+        "common": "Бурунди"
+      },
+      "slk": {
+        "official": "Burundská republika",
+        "common": "Burundi"
+      },
+      "spa": {
+        "official": "República de Burundi",
+        "common": "Burundi"
+      },
+      "srp": null,
+      "swe": {
+        "official": "Republiken Burundi",
+        "common": "Burundi"
+      },
+      "tur": null,
+      "urd": {
+        "official": "جمہوریہ برونڈی",
+        "common": "برونڈی"
+      },
+      "zho": {
+        "official": "布隆迪共和国",
+        "common": "布隆迪"
+      }
+    },
+    "latlng": [
+      -3.5,
+      30
+    ],
+    "landlocked": true,
+    "borders": [
+      "COD",
+      "RWA",
+      "TZA"
+    ],
+    "area": 27834,
+    "demonyms": {
+      "eng": {
+        "f": "Burundian",
+        "m": "Burundian"
+      },
+      "fra": {
+        "official": null,
+        "common": null,
+        "f": "Burundaise",
+        "m": "Burundais"
+      }
+    },
+    "flag": "🇧🇮",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/RXPWoRrB9tfrJpUG7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195269"
+    },
+    "population": 11890781,
+    "gini": {
+      "_2016": 0
+    },
+    "fifa": "BDI",
+    "car": {
+      "signs": [
+        "RU"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "coatOfArms": null,
+    "startOfWeek": null,
+    "capitalInfo": null,
+    "postalCode": null
+  }
+]

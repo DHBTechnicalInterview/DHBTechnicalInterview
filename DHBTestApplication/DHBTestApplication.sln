@@ -25,6 +25,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DHBTestApplication.Applicat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHBTestApplication.API", "DHBTestApplication.API\DHBTestApplication.API.csproj", "{A6377883-1C39-4CDA-8B16-5304F257D83D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{FB79AF81-8153-4DA4-9D7A-0C4A397BCE7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHBTestApplication.Application.Tests", "DHBTestApplication.Application.Tests\DHBTestApplication.Application.Tests.csproj", "{3882A9DF-C174-49EF-940B-0E56F6D5A082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHBTestApplication.Domain.Tests", "DHBTestApplication.Domain.Tests\DHBTestApplication.Domain.Tests.csproj", "{7DC3A163-4B97-43BA-B915-327B48A162C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHBTestApplication.Application.Integration.Tests", "DHBTestApplication.Application.Integration.Tests\DHBTestApplication.Application.Integration.Tests.csproj", "{9CC935DF-B2A1-4642-BD78-250BBFB69713}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHBTestApplication.Infrastructure.Tests", "DHBTestApplication.Infrastructure.Tests\DHBTestApplication.Infrastructure.Tests.csproj", "{406DBD6F-A957-4A36-823D-3D631CF7656D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,11 +61,33 @@ Global
 		{A6377883-1C39-4CDA-8B16-5304F257D83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6377883-1C39-4CDA-8B16-5304F257D83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6377883-1C39-4CDA-8B16-5304F257D83D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3882A9DF-C174-49EF-940B-0E56F6D5A082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3882A9DF-C174-49EF-940B-0E56F6D5A082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3882A9DF-C174-49EF-940B-0E56F6D5A082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3882A9DF-C174-49EF-940B-0E56F6D5A082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC3A163-4B97-43BA-B915-327B48A162C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC3A163-4B97-43BA-B915-327B48A162C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC3A163-4B97-43BA-B915-327B48A162C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC3A163-4B97-43BA-B915-327B48A162C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC935DF-B2A1-4642-BD78-250BBFB69713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC935DF-B2A1-4642-BD78-250BBFB69713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC935DF-B2A1-4642-BD78-250BBFB69713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC935DF-B2A1-4642-BD78-250BBFB69713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{406DBD6F-A957-4A36-823D-3D631CF7656D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406DBD6F-A957-4A36-823D-3D631CF7656D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406DBD6F-A957-4A36-823D-3D631CF7656D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406DBD6F-A957-4A36-823D-3D631CF7656D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A7CAE21B-4019-4824-97CD-5C1D8D7FE3DF}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3882A9DF-C174-49EF-940B-0E56F6D5A082} = {FB79AF81-8153-4DA4-9D7A-0C4A397BCE7C}
+		{7DC3A163-4B97-43BA-B915-327B48A162C3} = {FB79AF81-8153-4DA4-9D7A-0C4A397BCE7C}
+		{9CC935DF-B2A1-4642-BD78-250BBFB69713} = {FB79AF81-8153-4DA4-9D7A-0C4A397BCE7C}
+		{406DBD6F-A957-4A36-823D-3D631CF7656D} = {FB79AF81-8153-4DA4-9D7A-0C4A397BCE7C}
 	EndGlobalSection
 EndGlobal

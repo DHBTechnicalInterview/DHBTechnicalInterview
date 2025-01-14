@@ -1,6 +1,11 @@
-@DHBTestApplication.API_HostAddress = http://localhost:5052
+//fix bug: put address in the  environment file for this plugin
 
-GET {{DHBTestApplication.API_HostAddress}}/weatherforecast/
+### Get all countries
+#@insecure
+GET {{Host}}/countries/
 Accept: application/json
 
-###
+### Search for a country
+#@insecure
+GET {{Host}}/countries/unitedKimdom
+Accept: application/json

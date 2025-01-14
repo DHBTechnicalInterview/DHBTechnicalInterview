@@ -1,5 +1,5 @@
-﻿using DHBTestApplication.Application;
-using DHBTestApplication.Domain;
+﻿using DHBTestApplication.Domain;
+using DHBTestApplication.Web.Commands;
 using MediatR;
 using Microsoft.AspNetCore.Components;
 

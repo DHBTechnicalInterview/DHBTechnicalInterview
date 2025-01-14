@@ -1,6 +1,6 @@
-﻿using System.Text.Json;
-
-namespace DHBTestApplication.Domain
+﻿using DHBTestApplication.Domain;
+//define the payload for the fetching data service
+namespace DHBTestApplication.Web.Payload
 {
     // Root myDeserializedClass = JsonConvert.DeserializeObject<List<Root>>(myJsonResponse);
     public class Ara
@@ -195,7 +195,7 @@ namespace DHBTestApplication.Domain
         public string regex { get; set; }
     }
 
-    public class CountryDto
+    public class CountryPayload
     {
         public Name name { get; set; }
         public List<string> tld { get; set; }

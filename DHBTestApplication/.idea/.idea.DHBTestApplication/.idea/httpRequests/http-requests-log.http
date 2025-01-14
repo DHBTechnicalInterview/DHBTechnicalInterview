@@ -1,0 +1,117 @@
+GET https://localhost:7140/countries/unitedKimdom
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.3.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-14T014426.200.json
+
+###
+
+GET https://localhost:7140/countries/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.3.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-14T014423.200.json
+
+###
+
+GET https://localhost:7140/countries/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.3.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-14T014223.200.json
+
+###
+
+# @no-redirect
+# @no-cookie-jar
+GET http://localhost:5052/countries/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.3.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+###
+
+# @no-redirect
+# @no-cookie-jar
+GET http://localhost:5052/countries/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.3.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+###
+
+# @no-redirect
+# @no-cookie-jar
+GET http://localhost:5052/countries/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.3.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+###
+
+GET https://localhost:7140/countries/unitedKimdom
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.3.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-13T035205.200.json
+
+###
+
+GET https://localhost:7140/countries/unitedKimdom
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.3.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-13T034125.200.json
+
+###
+
+GET https://localhost:7140/countries/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.3.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-10T214200.200.json
+
+###
+
+GET https://localhost:7220/countries/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.3.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-10T195306.200.json
+
+###
+
+GET http://localhost:5052/countries/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.3.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-10T191649.200.json
+
+###
+
+GET http://localhost:5052/countries/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.3.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-10T191648.200.json
+
+###
+
+GET http://localhost:5052/countries/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.3.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-10T191356.200.json
+
+###
+
