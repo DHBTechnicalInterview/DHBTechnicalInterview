@@ -12,34 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="134ed9e0-7ec6-4f2e-b44e-6718cbc7c58d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DHBTestApplication.Application.Integration.Tests/DHBTestApplication.Application.Integration.Tests.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DHBTestApplication.Application.Tests/DHBTestApplication.Application.Tests.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DHBTestApplication.Application.Tests/Features/Country/CountryServiceTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DHBTestApplication.Application/Interfaces/ICountryServices.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DHBTestApplication/Clients/CountryProvider.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DHBTestApplication/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DHBTestApplication/.idea/httpRequests/http-requests-log.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DHBTestApplication/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DHBTestApplication/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DHBTestApplication.Infrastructure/CountryProvider.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DHBTestApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DHBTestApplication/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DHBTestApplication.API/AllCountries.json" beforeDir="false" afterPath="$PROJECT_DIR$/DHBTestApplication.Infrastructure/Resources/AllCountries.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DHBTestApplication.API/Controllers/CountriesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DHBTestApplication.API/Controllers/CountriesController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DHBTestApplication.API/DHBTestApplication.API.http" beforeDir="false" afterPath="$PROJECT_DIR$/DHBTestApplication.API/DHBTestApplication.API.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DHBTestApplication.API/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DHBTestApplication.API/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DHBTestApplication.Application/CountryServices.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DHBTestApplication.Application/Services/CountryServices.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DHBTestApplication.Application/ICountryServices.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DHBTestApplication.Domain/Country.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DHBTestApplication.Domain/Country.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DHBTestApplication.Domain/Services/StringSimilarityService.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DHBTestApplication.Infrastructure/DHBTestApplication.Infrastructure.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DHBTestApplication.Infrastructure/DHBTestApplication.Infrastructure.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DHBTestApplication.Infrastructure/Services/JsonFileReader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DHBTestApplication.Infrastructure/Services/JsonFileReader.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DHBTestApplication.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DHBTestApplication.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DHBTestApplication/Com/GetCountryList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DHBTestApplication/Commands/GetCountryList.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DHBTestApplication/Com/SearchCountry.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DHBTestApplication/Commands/SearchCountry.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DHBTestApplication/Components/Pages/CountrySearch.razor" beforeDir="false" afterPath="$PROJECT_DIR$/DHBTestApplication/Components/Pages/CountrySearch.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DHBTestApplication/Components/Pages/CountrySearchBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DHBTestApplication/Components/Pages/CountrySearchBase.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DHBTestApplication/Components/Pages/RankBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DHBTestApplication/Components/Pages/RankBase.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DHBTestApplication/Dto/CountryDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DHBTestApplication/Payload/CountryPayload.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DHBTestApplication/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DHBTestApplication/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DHBTestApplication/Services/CountryProvider.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DHBTestApplication/Services/ICountryProvider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DHBTestApplication/Clients/ICountryProvider.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTTP Public Environment File" />
+        <option value="XML File" />
       </list>
     </option>
   </component>
@@ -127,7 +102,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.DHBTestApplication.Web: https">
+  <component name="RunManager" selected=".NET Launch Settings Profile.DHBTestApplication.API: https">
     <configuration name="DHBTestApplication.API.Integration.Tests" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -254,7 +229,7 @@
       <workItem from="1736620566323" duration="1521000" />
       <workItem from="1736693670102" duration="553000" />
       <workItem from="1736694246159" duration="12510000" />
-      <workItem from="1736707873724" duration="77141000" />
+      <workItem from="1736707873724" duration="78745000" />
     </task>
     <servers />
   </component>

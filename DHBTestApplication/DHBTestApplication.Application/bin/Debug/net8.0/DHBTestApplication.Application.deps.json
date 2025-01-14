@@ -86,14 +86,7 @@
           "System.Text.Json": "9.0.0"
         },
         "runtime": {
-<<<<<<< HEAD
           "DHBTestApplication.Domain.dll": {}
-=======
-          "DHBTestApplication.Domain.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
->>>>>>> main
         }
       },
       "DHBTestApplication.Infrastructure/1.0.0": {
@@ -102,14 +95,7 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.0"
         },
         "runtime": {
-<<<<<<< HEAD
           "DHBTestApplication.Infrastructure.dll": {}
-=======
-          "DHBTestApplication.Infrastructure.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
->>>>>>> main
         }
       }
     }

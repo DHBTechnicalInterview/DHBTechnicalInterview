@@ -3,12 +3,11 @@
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
   </PropertyGroup>
-<<<<<<< HEAD
+
   <!-- DHBTestApplication.API.csproj -->
 <ItemGroup>
     <ProjectReference Include="..\DHBTestApplication.Infrastructure\DHBTestApplication.Infrastructure.csproj" />
 </ItemGroup>
 
-=======
->>>>>>> main
+
 </Project>

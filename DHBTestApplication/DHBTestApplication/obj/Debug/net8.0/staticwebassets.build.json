@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "Hash": "P25UCRQu62NGFudR8APwmrITIdqGTWOP1VKhxxbkZYA=",
-=======
-  "Hash": "0nFz8KzI1xcrysaiJhFFA0o8EXO6lw64sGKYWc/1Q/U=",
->>>>>>> main
   "Source": "DHBTestApplication.Web",
   "BasePath": "_content/DHBTestApplication.Web",
   "Mode": "Default",
@@ -12,22 +8,15 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-<<<<<<< HEAD
       "Name": "DHBTestApplication.Web/wwwroot",
       "Source": "DHBTestApplication.Web",
       "ContentRoot": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication/wwwroot/",
-=======
-      "Name": "DHBTestApplication.Web\\wwwroot",
-      "Source": "DHBTestApplication.Web",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\wwwroot\\",
->>>>>>> main
       "BasePath": "_content/DHBTestApplication.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-<<<<<<< HEAD
       "Identity": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/dark-base.css",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
@@ -70,12 +59,6 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
-=======
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\dark.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
->>>>>>> main
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/dark.css",
       "AssetKind": "All",
@@ -88,7 +71,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/dark.css"
     },
     {
@@ -98,17 +80,6 @@
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/default-base.css",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\dark.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\dark-base.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/dark-base.css",
->>>>>>> main
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -119,7 +90,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/default-base.css"
     },
     {
@@ -129,17 +99,6 @@
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/default-wcag.css",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\dark-base.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\dark-wcag.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/dark-wcag.css",
->>>>>>> main
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,7 +109,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/default-wcag.css"
     },
     {
@@ -158,15 +116,6 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\dark-wcag.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\default.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
->>>>>>> main
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/default.css",
       "AssetKind": "All",
@@ -179,7 +128,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/default.css"
     },
     {
@@ -189,17 +137,6 @@
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/humanistic-base.css",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\default.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\default-base.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/default-base.css",
->>>>>>> main
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -210,7 +147,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/humanistic-base.css"
     },
     {
@@ -220,17 +156,6 @@
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/humanistic-dark-base.css",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\default-base.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\default-wcag.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/default-wcag.css",
->>>>>>> main
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -241,7 +166,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/humanistic-dark-base.css"
     },
     {
@@ -306,15 +230,6 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\default-wcag.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\humanistic.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
->>>>>>> main
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/humanistic.css",
       "AssetKind": "All",
@@ -327,7 +242,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/humanistic.css"
     },
     {
@@ -337,17 +251,6 @@
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/material-base.css",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\humanistic.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\humanistic-base.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/humanistic-base.css",
->>>>>>> main
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -358,7 +261,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/material-base.css"
     },
     {
@@ -368,17 +270,6 @@
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/material-dark-base.css",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\humanistic-base.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\humanistic-dark.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/humanistic-dark.css",
->>>>>>> main
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -389,7 +280,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/material-dark-base.css"
     },
     {
@@ -399,17 +289,6 @@
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/material-dark-wcag.css",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\humanistic-dark.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\humanistic-dark-base.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/humanistic-dark-base.css",
->>>>>>> main
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -420,7 +299,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/material-dark-wcag.css"
     },
     {
@@ -430,17 +308,6 @@
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/material-dark.css",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\humanistic-dark-base.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\humanistic-dark-wcag.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/humanistic-dark-wcag.css",
->>>>>>> main
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -451,7 +318,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/material-dark.css"
     },
     {
@@ -461,17 +327,6 @@
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/material-wcag.css",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\humanistic-dark-wcag.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\humanistic-wcag.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/humanistic-wcag.css",
->>>>>>> main
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -482,7 +337,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/material-wcag.css"
     },
     {
@@ -490,15 +344,6 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\humanistic-wcag.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\material.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
->>>>>>> main
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/material.css",
       "AssetKind": "All",
@@ -511,7 +356,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/material.css"
     },
     {
@@ -521,17 +365,6 @@
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/software-base.css",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\material.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\material-base.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/material-base.css",
->>>>>>> main
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -542,7 +375,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/software-base.css"
     },
     {
@@ -552,17 +384,6 @@
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/software-dark-base.css",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\material-base.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\material-dark.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/material-dark.css",
->>>>>>> main
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -573,7 +394,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/software-dark-base.css"
     },
     {
@@ -583,17 +403,6 @@
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/software-dark-wcag.css",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\material-dark.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\material-dark-base.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/material-dark-base.css",
->>>>>>> main
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -604,7 +413,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/software-dark-wcag.css"
     },
     {
@@ -614,17 +422,6 @@
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/software-dark.css",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\material-dark-base.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\material-dark-wcag.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/material-dark-wcag.css",
->>>>>>> main
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -635,7 +432,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/software-dark.css"
     },
     {
@@ -645,17 +441,6 @@
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/software-wcag.css",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\material-dark-wcag.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\material-wcag.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/material-wcag.css",
->>>>>>> main
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -666,7 +451,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/software-wcag.css"
     },
     {
@@ -674,15 +458,6 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\material-wcag.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\software.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
->>>>>>> main
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/software.css",
       "AssetKind": "All",
@@ -695,7 +470,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/software.css"
     },
     {
@@ -705,17 +479,6 @@
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/standard-base.css",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\software.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\software-base.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/software-base.css",
->>>>>>> main
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -726,7 +489,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/standard-base.css"
     },
     {
@@ -736,17 +498,6 @@
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/standard-dark-base.css",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\software-base.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\software-dark.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/software-dark.css",
->>>>>>> main
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -757,7 +508,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/standard-dark-base.css"
     },
     {
@@ -767,17 +517,6 @@
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/standard-dark-wcag.css",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\software-dark.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\software-dark-base.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/software-dark-base.css",
->>>>>>> main
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -788,7 +527,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/standard-dark-wcag.css"
     },
     {
@@ -798,17 +536,6 @@
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/standard-dark.css",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\software-dark-base.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\software-dark-wcag.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/software-dark-wcag.css",
->>>>>>> main
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -819,7 +546,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/standard-dark.css"
     },
     {
@@ -829,17 +555,6 @@
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/standard-wcag.css",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\software-dark-wcag.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\software-wcag.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/software-wcag.css",
->>>>>>> main
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -850,7 +565,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/standard-wcag.css"
     },
     {
@@ -858,15 +572,6 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\software-wcag.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\standard.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
->>>>>>> main
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/standard.css",
       "AssetKind": "All",
@@ -879,7 +584,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/css/standard.css"
     },
     {
@@ -887,110 +591,6 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\standard.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\standard-base.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/standard-base.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\standard-base.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\standard-dark.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/standard-dark.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\standard-dark.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\standard-dark-base.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/standard-dark-base.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\standard-dark-base.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\standard-dark-wcag.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/standard-dark-wcag.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\standard-dark-wcag.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\standard-wcag.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/standard-wcag.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\css\\standard-wcag.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\fonts\\MaterialSymbolsOutlined.woff2",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
->>>>>>> main
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/MaterialSymbolsOutlined.woff2",
       "AssetKind": "All",
@@ -1003,7 +603,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/fonts/MaterialSymbolsOutlined.woff2"
     },
     {
@@ -1011,15 +610,6 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\fonts\\MaterialSymbolsOutlined.woff2"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\fonts\\RobotoFlex.woff2",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
->>>>>>> main
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/RobotoFlex.woff2",
       "AssetKind": "All",
@@ -1032,7 +622,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/fonts/RobotoFlex.woff2"
     },
     {
@@ -1040,15 +629,6 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\fonts\\RobotoFlex.woff2"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\fonts\\SourceSans3VF-Italic.ttf.woff2",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
->>>>>>> main
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/SourceSans3VF-Italic.ttf.woff2",
       "AssetKind": "All",
@@ -1061,7 +641,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/fonts/SourceSans3VF-Italic.ttf.woff2"
     },
     {
@@ -1069,15 +648,6 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\fonts\\SourceSans3VF-Italic.ttf.woff2"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\fonts\\SourceSans3VF-Upright.ttf.woff2",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
->>>>>>> main
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/SourceSans3VF-Upright.ttf.woff2",
       "AssetKind": "All",
@@ -1090,7 +660,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/fonts/SourceSans3VF-Upright.ttf.woff2"
     },
     {
@@ -1098,15 +667,6 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\fonts\\SourceSans3VF-Upright.ttf.woff2"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\Radzen.Blazor.js",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\",
->>>>>>> main
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "Radzen.Blazor.js",
       "AssetKind": "All",
@@ -1119,7 +679,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Users/oww/.nuget/packages/radzen.blazor/5.7.4/staticwebassets/Radzen.Blazor.js"
     },
     {
@@ -1127,15 +686,6 @@
       "SourceId": "DHBTestApplication.Web",
       "SourceType": "Computed",
       "ContentRoot": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication/obj/Debug/net8.0/scopedcss/bundle/",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\.nuget\\packages\\radzen.blazor\\5.7.3\\staticwebassets\\Radzen.Blazor.js"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DHBTestApplication.Web.styles.css",
-      "SourceId": "DHBTestApplication.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
->>>>>>> main
       "BasePath": "_content/DHBTestApplication.Web",
       "RelativePath": "DHBTestApplication.Web.styles.css",
       "AssetKind": "All",
@@ -1148,7 +698,6 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication/obj/Debug/net8.0/scopedcss/bundle/DHBTestApplication.Web.styles.css"
     },
     {
@@ -1156,15 +705,6 @@
       "SourceId": "DHBTestApplication.Web",
       "SourceType": "Computed",
       "ContentRoot": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication/obj/Debug/net8.0/scopedcss/projectbundle/",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DHBTestApplication.Web.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DHBTestApplication.Web.bundle.scp.css",
-      "SourceId": "DHBTestApplication.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
->>>>>>> main
       "BasePath": "_content/DHBTestApplication.Web",
       "RelativePath": "DHBTestApplication.Web.bundle.scp.css",
       "AssetKind": "All",
@@ -1177,7 +717,6 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication/obj/Debug/net8.0/scopedcss/projectbundle/DHBTestApplication.Web.bundle.scp.css"
     },
     {
@@ -1185,15 +724,6 @@
       "SourceId": "DHBTestApplication.Web",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication/wwwroot/",
-=======
-      "OriginalItemSpec": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DHBTestApplication.Web.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\wwwroot\\app.css",
-      "SourceId": "DHBTestApplication.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\wwwroot\\",
->>>>>>> main
       "BasePath": "_content/DHBTestApplication.Web",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -1206,7 +736,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot/app.css"
     },
     {
@@ -1214,15 +743,6 @@
       "SourceId": "DHBTestApplication.Web",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication/wwwroot/",
-=======
-      "OriginalItemSpec": "wwwroot\\app.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\wwwroot\\bootstrap\\bootstrap.min.css",
-      "SourceId": "DHBTestApplication.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\wwwroot\\",
->>>>>>> main
       "BasePath": "_content/DHBTestApplication.Web",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -1235,7 +755,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css"
     },
     {
@@ -1243,15 +762,6 @@
       "SourceId": "DHBTestApplication.Web",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication/wwwroot/",
-=======
-      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\wwwroot\\bootstrap\\bootstrap.min.css.map",
-      "SourceId": "DHBTestApplication.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\wwwroot\\",
->>>>>>> main
       "BasePath": "_content/DHBTestApplication.Web",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1264,7 +774,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css.map"
     },
     {
@@ -1272,15 +781,6 @@
       "SourceId": "DHBTestApplication.Web",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication/wwwroot/",
-=======
-      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\wwwroot\\favicon.png",
-      "SourceId": "DHBTestApplication.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elliot Lake\\source\\repos\\DHBTestApplication\\DHBTestApplication\\wwwroot\\",
->>>>>>> main
       "BasePath": "_content/DHBTestApplication.Web",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -1293,11 +793,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot/favicon.png"
-=======
-      "OriginalItemSpec": "wwwroot\\favicon.png"
->>>>>>> main
     }
   ]
 }
