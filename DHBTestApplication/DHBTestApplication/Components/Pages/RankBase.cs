@@ -11,17 +11,7 @@ namespace DHBTestApplication.Web.Components.Pages
         public List<Country> CountryList { get; set; }
         [Inject]
         public IMediator Mediator { get; set; }
-
-        public string searchQuery;
-        public string SearchQuery
-        {
-            get => searchQuery;
-            set
-            {
-                searchQuery = value;
-                _ = SearchCountries(); // Fire and forget
-            }
-        }
+        public string SearchQuery { get; set; }
         protected async override Task OnInitializedAsync()
         {
             //Fix: When clicking on Rank all the countries are loaded initially 
@@ -36,13 +26,28 @@ namespace DHBTestApplication.Web.Components.Pages
             IsLoaded = true;
             StateHasChanged();
         }
-        public async Task SearchCountries()
+        public async Task OnSearchChange(string value)
         {
-            IsLoaded = false;
-            StateHasChanged();
-            CountryList = await Mediator.Send(new SearchCountryListQuery(SearchQuery));
-            IsLoaded = true;
-            StateHasChanged();
+            try
+            {
+                await InvokeAsync(async () =>
+                {
+                    IsLoaded = false;
+                    StateHasChanged();
+
+                    SearchQuery = value;
+                    CountryList = await Mediator.Send(new SearchCountryListQuery(SearchQuery));
+                    
+                    IsLoaded = true;
+                    StateHasChanged();
+                });
+            }
+            catch (Exception ex)
+            {
+                // Add proper error handling here
+                IsLoaded = true;
+                StateHasChanged();
+            }
         }
     }
 }
