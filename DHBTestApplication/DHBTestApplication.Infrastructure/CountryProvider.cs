@@ -23,10 +23,10 @@ namespace DHBTestApplication.Infrastructure
         {
             //Fix : adding error handling
             try{
-            var result = await _httpClient.GetAsync($"{_apiUrl}/countries");
-            var resultStream = await result.Content.ReadAsStreamAsync();
-            var countryList = await JsonSerializer.DeserializeAsync<List<CountryDto>>(resultStream);
-            return countryList;
+                var result = await _httpClient.GetAsync($"{_apiUrl}/countries");
+                var resultStream = await result.Content.ReadAsStreamAsync();
+                var countryList = await JsonSerializer.DeserializeAsync<List<CountryDto>>(resultStream);
+                return countryList;
             }catch(Exception ex){
                 _logger.LogError(ex, $"Error fetching countries");
                 throw new ApplicationException("Error Fetching Countries", ex);

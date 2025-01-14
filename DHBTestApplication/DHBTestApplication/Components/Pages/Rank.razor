@@ -2,18 +2,23 @@
 @inherits RankBase
 
 <h3>Rank</h3>
-
+@*Feature : Search box to trigger search when typing*@
 <RadzenTextBox Value=@SearchQuery ValueChanged=@OnSearchChange Placeholder="Enter country name" />
 <RadzenButton Text="Load Countries" Click="LoadCountriesInOrder" IsBusy="!IsLoaded"></RadzenButton>
 
-
+@if (!string.IsNullOrEmpty(ErrorMessage))
+{
+    <div class="text-danger">
+        @ErrorMessage
+    </div>
+}
 @if (!IsLoaded)
 {
     <div class="loader">
     </div>
 }
 
-@if (IsLoaded)
+@if (IsLoaded && string.IsNullOrEmpty(ErrorMessage))
 {
     <RadzenDataGrid Data="@CountryList">
         <Columns>

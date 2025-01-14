@@ -7,11 +7,11 @@ namespace DHBTestApplication.Application
     {
 
     }
-
+    //Feature: Passing the request query to the query handler in the CQRS pattern.
     public class SearchCountryListQuery : IRequest<List<Country>>
     {
         public string Query { get; }
-
+        
         public SearchCountryListQuery(string query)
         {
             Query = query;
@@ -36,6 +36,7 @@ namespace DHBTestApplication.Application
             return countryList;
         }
     }
+    //Feature : Processing the request query in the CQRS pattern
     public class SearchCountryListHandler : IRequestHandler<SearchCountryListQuery, List<Country>>
     {
         private readonly ICountryProvider provider;
@@ -44,7 +45,7 @@ namespace DHBTestApplication.Application
         {
             this.provider = provider;
         }
-
+        //Feature : Fetching all the countries and matching it with the Request Query using LINQ.
         public async Task<List<Country>> Handle(SearchCountryListQuery request, CancellationToken cancellationToken)
         {
             var result = await provider.GetAllCountries();

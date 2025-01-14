@@ -12,6 +12,8 @@ namespace DHBTestApplication.Web.Components.Pages
         [Inject]
         public IMediator Mediator { get; set; }
         public string SearchQuery { get; set; }
+        public string ErrorMessage { get; set; }
+        public NavigationManager NavigationManager { get; set; }
         protected async override Task OnInitializedAsync()
         {
             //Fix: When clicking on Rank all the countries are loaded initially 
@@ -20,12 +22,21 @@ namespace DHBTestApplication.Web.Components.Pages
         }
         public async Task LoadCountriesInOrder()
         {
-            IsLoaded = false;
-            StateHasChanged(); //Fix: Explicitly called as in some cases state change is not being reflected in the UI
-            CountryList = await Mediator.Send(new GetCountryListQuery());
-            IsLoaded = true;
-            StateHasChanged();
+            try{
+                IsLoaded = false;
+                StateHasChanged(); //Fix: Explicitly called as in some cases state change is not being reflected in the UI
+                CountryList = await Mediator.Send(new GetCountryListQuery());
+                IsLoaded = true;
+                ErrorMessage = null;
+                StateHasChanged();
+            }catch(Exception ex){
+                IsLoaded = true;
+                ErrorMessage = ex.Message;
+                StateHasChanged();
+                throw;
+            }
         }
+        //Feature : Method to search for each key value as it is being typed
         public async Task OnSearchChange(string value)
         {
             try
@@ -39,6 +50,7 @@ namespace DHBTestApplication.Web.Components.Pages
                     CountryList = await Mediator.Send(new SearchCountryListQuery(SearchQuery));
                     
                     IsLoaded = true;
+                    ErrorMessage = null;
                     StateHasChanged();
                 });
             }
@@ -46,7 +58,9 @@ namespace DHBTestApplication.Web.Components.Pages
             {
                 // Add proper error handling here
                 IsLoaded = true;
+                ErrorMessage = ex.Message;
                 StateHasChanged();
+                throw;
             }
         }
     }
