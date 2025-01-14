@@ -3,8 +3,10 @@
 
 <h3>Rank</h3>
 
-
+<RadzenTextBox @bind-Value="SearchQuery" Placeholder="Enter country name" />
+<RadzenButton Text="Search" Click="SearchCountries" IsBusy="!IsLoaded"></RadzenButton>
 <RadzenButton Text="Load Countries" Click="LoadCountriesInOrder" IsBusy="!IsLoaded"></RadzenButton>
+
 
 @if (!IsLoaded)
 {

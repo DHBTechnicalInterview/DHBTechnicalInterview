@@ -32,14 +32,5 @@ namespace DHBTestApplication.Infrastructure
                 throw new ApplicationException("Error Fetching Countries", ex);
             }
         }
-
-        public async Task<CountryDto> GetCountry(string countryName)
-        {
-            var result = await _httpClient.GetAsync($"https://localhost:7220/countries/{countryName}");
-            var resultStream = await result.Content.ReadAsStreamAsync();
-            var countryList = await JsonSerializer.DeserializeAsync<CountryDto>(resultStream);
-
-            return countryList;
-        }
     }
 }
