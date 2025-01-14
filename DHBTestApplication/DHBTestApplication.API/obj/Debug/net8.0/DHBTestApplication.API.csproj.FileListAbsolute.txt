@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.API/bin/Debug/net8.0/AllCountries.json
 C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.API/bin/Debug/net8.0/appsettings.Development.json
 C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.API/bin/Debug/net8.0/appsettings.json
@@ -79,3 +80,38 @@ C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.API/obj/
 /Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.API/bin/Debug/net8.0/DHBTestApplication.Application.pdb
 /Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.API/bin/Debug/net8.0/Resources/AllCountries.json
 /Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.API/bin/Debug/net8.0/http-client.env.json
+=======
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\bin\Debug\net8.0\AllCountries.json
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\bin\Debug\net8.0\appsettings.json
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\bin\Debug\net8.0\DHBTestApplication.API.exe
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\bin\Debug\net8.0\DHBTestApplication.API.deps.json
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\bin\Debug\net8.0\DHBTestApplication.API.runtimeconfig.json
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\bin\Debug\net8.0\DHBTestApplication.API.dll
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\bin\Debug\net8.0\DHBTestApplication.API.pdb
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\obj\Debug\net8.0\DHBTestApplication.API.csproj.AssemblyReference.cache
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\obj\Debug\net8.0\DHBTestApplication.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\obj\Debug\net8.0\DHBTestApplication.API.AssemblyInfoInputs.cache
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\obj\Debug\net8.0\DHBTestApplication.API.AssemblyInfo.cs
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\obj\Debug\net8.0\DHBTestApplication.API.csproj.CoreCompileInputs.cache
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\obj\Debug\net8.0\DHBTestApplication.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\obj\Debug\net8.0\DHBTestApplication.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\obj\Debug\net8.0\staticwebassets\msbuild.DHBTestApplication.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\obj\Debug\net8.0\staticwebassets\msbuild.build.DHBTestApplication.API.props
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DHBTestApplication.API.props
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DHBTestApplication.API.props
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\obj\Debug\net8.0\scopedcss\bundle\DHBTestApplication.API.styles.css
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\obj\Debug\net8.0\DHBTestA.3822321B.Up2Date
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\obj\Debug\net8.0\DHBTestApplication.API.dll
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\obj\Debug\net8.0\refint\DHBTestApplication.API.dll
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\obj\Debug\net8.0\DHBTestApplication.API.pdb
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\obj\Debug\net8.0\DHBTestApplication.API.genruntimeconfig.cache
+C:\Users\Elliot Lake\source\repos\DHBTestApplication\DHBTestApplication.API\obj\Debug\net8.0\ref\DHBTestApplication.API.dll
+>>>>>>> main

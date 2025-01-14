@@ -64,7 +64,14 @@
           "System.Text.Json": "9.0.0"
         },
         "runtime": {
+<<<<<<< HEAD
           "DHBTestApplication.Domain.dll": {}
+=======
+          "DHBTestApplication.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+>>>>>>> main
         }
       }
     }

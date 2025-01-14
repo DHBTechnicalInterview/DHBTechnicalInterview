@@ -28,9 +28,6 @@
             "projectReferences": {
               "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/DHBTestApplication.Application.csproj": {
                 "projectPath": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/DHBTestApplication.Application.csproj"
-              },
-              "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Infrastructure/DHBTestApplication.Infrastructure.csproj": {
-                "projectPath": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Infrastructure/DHBTestApplication.Infrastructure.csproj"
               }
             }
           }

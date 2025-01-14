@@ -1,3 +1,7 @@
 ﻿<Project>
+<<<<<<< HEAD
   <Import Project="../buildMultiTargeting/DHBTestApplication.API.props" />
+=======
+  <Import Project="..\buildMultiTargeting\DHBTestApplication.API.props" />
+>>>>>>> main
 </Project>

@@ -785,7 +785,6 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "DHBTestApplication.Application >= 1.0.0",
-      "DHBTestApplication.Infrastructure >= 1.0.0",
       "Swashbuckle.AspNetCore >= 7.2.0"
     ]
   },
@@ -816,9 +815,6 @@
           "projectReferences": {
             "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/DHBTestApplication.Application.csproj": {
               "projectPath": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/DHBTestApplication.Application.csproj"
-            },
-            "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Infrastructure/DHBTestApplication.Infrastructure.csproj": {
-              "projectPath": "/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Infrastructure/DHBTestApplication.Infrastructure.csproj"
             }
           }
         }

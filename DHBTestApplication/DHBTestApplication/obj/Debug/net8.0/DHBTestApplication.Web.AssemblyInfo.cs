@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DHBTestApplication.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db9557ee4d6d18c457c79f2445f627d16796d7d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+480cbdb0534e51a88aa20178a09cc24dc3575b48")]
 [assembly: System.Reflection.AssemblyProductAttribute("DHBTestApplication.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DHBTestApplication.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
