@@ -3,8 +3,8 @@ using DHBTestApplication.Application;
 using DHBTestApplication.Web.Components;
 using DHBTestApplication.Infrastructure;
 using DHBTestApplication.Domain;
-using DHBTestApplication.Web.Services;
-using DHBTestApplication.Web.Utils;
+using DHBTestApplication.Web;
+using DHBTestApplication.Web.Clients;
 using Radzen;
 
 var builder = WebApplication.CreateBuilder(args);

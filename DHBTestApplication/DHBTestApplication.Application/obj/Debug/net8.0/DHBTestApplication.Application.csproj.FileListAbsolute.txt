@@ -33,3 +33,4 @@ C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.Applicat
 /Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/DHBTestApplication.Application.pdb
 /Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/ref/DHBTestApplication.Application.dll
 /Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/obj/Debug/net8.0/DHBTestApplication.Application.csproj.CopyComplete
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.Application/bin/Debug/net8.0/Resources/AllCountries.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DHBTestApplication.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b3b1a9be7e0516865110111a08628d3bbc23340")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db9557ee4d6d18c457c79f2445f627d16796d7d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("DHBTestApplication.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DHBTestApplication.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -31,7 +31,6 @@ C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.API/obj/
 C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.API/obj/Debug/net8.0/DHBTestApplication.API.pdb
 C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.API/obj/Debug/net8.0/DHBTestApplication.API.genruntimeconfig.cache
 C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.API/obj/Debug/net8.0/ref/DHBTestApplication.API.dll
-/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.API/bin/Debug/net8.0/AllCountries.json
 /Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.API/bin/Debug/net8.0/appsettings.Development.json
 /Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.API/bin/Debug/net8.0/appsettings.json
 /Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.API/bin/Debug/net8.0/DHBTestApplication.API
@@ -74,3 +73,9 @@ C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication.API/obj/
 /Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.API/bin/Debug/net8.0/DHBTestApplication.Infrastructure.dll
 /Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.API/bin/Debug/net8.0/DHBTestApplication.Infrastructure.pdb
 /Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.API/bin/Debug/net8.0/DHBTestApplication.Domain.pdb
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.API/bin/Debug/net8.0/MediatR.dll
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.API/bin/Debug/net8.0/MediatR.Contracts.dll
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.API/bin/Debug/net8.0/DHBTestApplication.Application.dll
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.API/bin/Debug/net8.0/DHBTestApplication.Application.pdb
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.API/bin/Debug/net8.0/Resources/AllCountries.json
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication.API/bin/Debug/net8.0/http-client.env.json

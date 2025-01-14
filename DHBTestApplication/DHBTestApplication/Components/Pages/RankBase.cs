@@ -1,6 +1,5 @@
-﻿//using services namespace in the web side instead of share the application layer of the backend
-using DHBTestApplication.Domain;
-using DHBTestApplication.Web.Utils;
+﻿using DHBTestApplication.Domain;
+using DHBTestApplication.Web.Commands;
 using MediatR;
 using Microsoft.AspNetCore.Components;
 

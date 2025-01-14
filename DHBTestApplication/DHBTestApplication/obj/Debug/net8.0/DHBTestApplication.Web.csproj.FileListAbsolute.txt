@@ -91,3 +91,4 @@ C:/Users/Elliot Lake/source/repos/DHBTestApplication/DHBTestApplication/bin/Debu
 /Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication/obj/Debug/net8.0/DHBTestApplication.Web.genruntimeconfig.cache
 /Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication/obj/Debug/net8.0/ref/DHBTestApplication.Web.dll
 /Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication/obj/Debug/net8.0/DHBTestApplication.Web.csproj.CopyComplete
+/Volumes/SSK_Drive/Github/DHBTechnicalInterview/DHBTestApplication/DHBTestApplication/bin/Debug/net8.0/Resources/AllCountries.json

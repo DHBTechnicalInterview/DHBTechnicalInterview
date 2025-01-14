@@ -1,6 +1,7 @@
-using DHBTestApplication.Application.Dto;
-using DHBTestApplication.Application.Interfaces;
+using DHBTestApplication.Application.Features.Country;
+using DHBTestApplication.Application.Interface;
 using Microsoft.AspNetCore.Mvc;
+
 namespace DHBTestApplication.API.Controllers
 {
     [ApiController]
@@ -8,11 +9,13 @@ namespace DHBTestApplication.API.Controllers
     public class CountriesController : ControllerBase
     {
         private readonly ILogger<CountriesController> _logger;
-        private readonly ICountrySearchService _countrySearchService;
-        public CountriesController(ILogger<CountriesController> logger,ICountrySearchService countrySearchService)
+        private readonly GetAllCountries getAllCountries;
+        private readonly SearchCountriesByName searchCountriesByName;
+        public CountriesController(ILogger<CountriesController> logger,GetAllCountries getAllCountries,SearchCountriesByName searchCountriesByName)
         {
             _logger = logger;
-            _countrySearchService = countrySearchService;
+            this.getAllCountries = getAllCountries;
+            this.searchCountriesByName = searchCountriesByName;
         }
 
         [HttpGet("/countries")]
@@ -20,7 +23,7 @@ namespace DHBTestApplication.API.Controllers
         {
             try
             {
-                var countries = await _countrySearchService.GetAllCountriesAsync();
+                var countries = await getAllCountries.getAll();
                 return Ok(countries);
             }
             catch (Exception ex)
@@ -35,17 +38,17 @@ namespace DHBTestApplication.API.Controllers
         {
             try
             {
-                var countries = await _countrySearchService.SearchCountriesByNameAsync(countryName);
-                if (!countries.Any())
+                var countries = await searchCountriesByName.searchByName(countryName);
+                if (countries.Count == 0)
                 {
-                    return NotFound($"No countries found matching '{countryName}'");
+                    return NotFound($"No countries found for '{countryName}'");
                 }
                 return Ok(countries);
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex, "Error searching for country: {CountryName}", countryName);
-                return StatusCode(500, "An error occurred while searching for the country");
+                _logger.LogError(ex, "Error searching");
+                return StatusCode(500, "Error occurred while searching for the country");
             };
 
         }
