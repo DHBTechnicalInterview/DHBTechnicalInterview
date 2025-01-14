@@ -33,7 +33,6 @@ namespace DHBTestApplication.Web.Components.Pages
                 IsLoaded = true;
                 ErrorMessage = ex.Message;
                 StateHasChanged();
-                throw;
             }
         }
         //Feature : Method to search for each key value as it is being typed
@@ -60,7 +59,6 @@ namespace DHBTestApplication.Web.Components.Pages
                 IsLoaded = true;
                 ErrorMessage = ex.Message;
                 StateHasChanged();
-                throw;
             }
         }
     }
